@@ -1,6 +1,6 @@
 Quotations collected over a lifetime of reading.
 I write quotations down while reading a good book.
-I have thousands collected in a binder.
+I have several thousand collected in binders.
 The quotes saved in this repo are my favourites.
 
 # Source file: quotes.txt 
