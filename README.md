@@ -1,5 +1,7 @@
 Quotations collected over a lifetime of reading.
-In the Renaissance, such a book was sometimes called a book of common-places.
+I write quotations down while reading a good book.
+I have thousands collected in a binder.
+The quotes saved here are my favourites.
 
 # Source file: quotes.txt 
 Structured data file, UTF-8 encoding, typed in manually.
