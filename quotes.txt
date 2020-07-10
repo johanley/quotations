@@ -1,4 +1,4 @@
-# Collected quotations, from my reading, between (about) 1985 to 2018.
+# Collected quotations, from my reading, from (about) 1985 onwards.
 # 
 # This is a structured file, amenable to programmatic manipulation.
 # The format is meant to be as easy to type in as possible, with little or no needless repetition.
@@ -10,7 +10,9 @@
 #  author > title > quote
 # The author and quote are always present; the title level may be absent, in the case of 
 # quotes that aren't referenced to a specific work. 
-# 
+#
+# The order of authors is arbitrary. 
+#  
 # DATA TRICK: In the case of works such as the Bible, the author takes the special value 'ZzzUnknown'; this 
 # has a SIDE EFFECT on the sorting, placing all such works at the very end.
 #

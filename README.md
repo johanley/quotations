@@ -22,5 +22,5 @@ This repeats data (author name, title). One quote per line.
 ## quotes_book.pdf
 Final output as a printable PDF.
 The PDF can be printed in book form.
-See, for example, [lulu.com](https://www.lulu.com/en/us/shop/john-ohanley/and-i-quote/hardcover/product-1jw5jmgp.html]lulu.com).
+See, for example, [lulu.com](https://www.lulu.com/en/us/shop/john-ohanley/and-i-quote/hardcover/product-1jw5jmgp.html).
  
