@@ -10,7 +10,7 @@ The source file uses *ad hoc* symbols to denote the need for special processing 
 - *pre*(...) is meant to preserve white space (lines of poetry)
 - *em*(...) is meant for emphasis/italics
 
-# Derived files
+# Generatetd files
 
 I have code that talks to the above source file, and generates a PDF, suitable for printing.
 That code is not included here. Only the data is included here. 
