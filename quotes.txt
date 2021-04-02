@@ -940,6 +940,8 @@ Maupassant, Guy de {
     Certes, en certains jours, j'éprouve l'horreur de ce qui est jusqu'à désirer la mort. Je sens jusqu'à la souffrance 
     suraiguë la monotonie invariable des paysages, des figures et des pensées. Le médiocrité de l'univers m'étonne 
     et me révolte, la petitesse de toutes choses m'emplit de dégoût, la pauvreté des êtres humains m'anéantit.
+    
+    Comme je l'aime, cette dédicace de Jules Vallès: «A tous ceux qui, nourris de grec et de latin, sont morts de faim.»
   }
   Notre Coeur {
     Mais les mots noirs sur le papier blanc, c'est l'âme toute nue.
@@ -957,7 +959,12 @@ Maupassant, Guy de {
     
     La misanthropie de ses oeuvres [Flaubert] ne vient pas d'autres chose. La saveur amère qui s'en degage n'est que 
     cette constante constatation de la médiocrité, de la banalité, de la sottise sous toutes les formes.
-    
+ 
+    Elle sait pourtant qu'elle va mourir, qu'elle ne verra point le printemps, que dans un an, le long de la même promenade,
+    ces mêmes gens qui passent devant elle viendront encore respirer l'air tiède de ce doux pays, avec leurs enfants un peu plus
+    grands, avec le coeur toujours rempli d'espoirs, de tendresses, de bonheur, tandis qu'au fond d'un cercueil de chêne la 
+    pauvre chair que lui reste encore aujourd'hui sera tombée en pourriture, laissant seulement ses os couchés dans la robe
+    de soit qu'elle a choisie pour linceul.
   }
 }
 
@@ -1159,6 +1166,9 @@ Vigny, Alfred de {
   }
   Derniere nuit de travail {
     ...Il ne lui faut que deux choses: la vie et la rêverie; le em(pain) et le em(temps).
+  }
+  Servitudes et grandeurs militaires {
+   L'admiration est corrumpue et corruptrice. On doit bien faire pour soi-même, et non pour le bruit.
   }
 }
 
@@ -1892,7 +1902,7 @@ Alexander, Christopher {
   }
 }
 
-Villiers de L'Isle-Adam, Auguste de {
+Villiers de L'Isle-Adam, A. de {
   Deux augures {
     Le public ne lit pas un journal pour penser ou réfléchir, que diable! On lit comme on mange.
     
@@ -1935,6 +1945,18 @@ Gibbon, Edward {
     Carus, taking off a cap which he wore to conceal his baldness, assured the ambassadors that, unless their master 
     acknowledged the superiority of Rome, he would speedily render Persia as naked of trees as his own head was 
     destitute of hair.
+    
+    Confiscation, exile, or simple death, were esteemed uncommon instances of his lenity.
+    
+    The peace of the Eastern church was invaded by a swarm of fanatics, incapable of fear, or reason, or humanity; and 
+    the Imperial troops acknowledged, without shame, that they were much less apprehensive of an encounter with the 
+    fiercest barbarians.
+    
+    ...the severity of the [Church] fathers, who despised all knowledge that was not useful to salvation, and who 
+    considered all levity of discourse as a criminal abuse of the gift of speech.
+    
+    But it is always easy, as well as agreeable, for the inferior ranks of mankind to claim a merit from the contempt of that 
+    pomp and pleasure which fortune has placed beyond their reach.
   }
 }
 
@@ -2087,6 +2109,15 @@ Austen, Jane {
     
     Yes, here I am, Sophia, quite ready to make a foolish match. Anybody between fifteen and thirty may have 
     me for asking. A little beauty, a few smiles, and a few compliments to the navy, and I am a lost man.
+  }
+  
+  Mansfield Park {
+    ...nor could he refrain from often saying to himself, in Mr. Rushworth's company, "If this man had not 
+    twelve thousand a year, he would be a very stupid fellow."
+    
+    "Certainly, my home at my uncle's brought me acquainted with a circle of admirals.
+    Of em(Rears), and em(Vices), I saw enough. Now, do not be suspecting me of a pun, I entreat." 
+    Edmund again felt grave, and only replied, "It is a noble profession."
   }
 }
 
@@ -2251,6 +2282,21 @@ Dawkins, Richard {
     They are judged according to the success of their progress in coping with all the hazards which life
     throws at their survival machines, and the judge is the ruthless judge of the court of survival.
   }
+  The God Delusion {
+    I have found it an amusing strategy, when asked whether I am an atheist, to point out that the questioner is also 
+    an atheist when considering Zeus, Apollo, Amon Ra, Mithras, Baal, Thor, Wotan, the Golden Calf and the 
+    Flying Spaghetti Monster. I just go one god further.
+    
+    St. Augustine said it quite openly: 'There is another form of temptation, even more fraught with danger. 
+    This is the disease of curiosity.'
+  }
+}
+
+Gray, Muriel {
+  But it has never been clearer that there is only one place to lay the blame [for 9/11] and it has ever been thus.
+  The cause of all this misery, mayhem, violence, terror and ignorance is of course religion itself, and if it seems 
+  ludicrous to have to state such an obvious reality, the fact is that the government and the media are doing a pretty 
+  good job of pretending that it isn't so.
 }
 
 Brodie, Richard {
@@ -3020,6 +3066,25 @@ Wodehouse, P. G. {
     You may say what you want against Bingo, but nobody has ever found him a depressing host. Why, many a time in the days of his 
     bachelorhood I've known him to start throwing bread before the soup course.
   }
+  
+  The Code of the Woosters {
+    You've met her. She came to lunch at the flat a week or two ago. Smallish girl of about the tonnage of Jessie Matthews.
+    
+    For Madeline Basset was undeniably of attractive exterior - slim, em(svelte), if that's the word, and bountifully
+    equipped with golden hair and all the fixings.
+    
+    Yes. They were arguing about something, and Augustus told him to go and boil his head.
+    
+    Since you ask, Spode, I want to know what the devil you mean by keeping coming into my private apartment,
+    taking up space which I require for other purposes and interrupting me when I am chatting with my personal friends.
+    
+    She had been as tough as a restaurant steak, and she continued as tough as a restaurant steak.
+    
+    It was plain from old Bassett's manner that he was not prepared to classify this under the heading of tidings of great joy.
+    
+    I ventured to suggest that it might be possible to induce him to leave his post by conveying word to him that the 
+    parlourmaid Mary, to whom he was betrothed, wished to confer with him in the raspberry bushes.
+  }
 }
 
 Morley, Christopher {
@@ -3260,6 +3325,11 @@ Forster, E. M. {
 Farquar, George {
  Sir Harry Wildair {
    Some time ago he had got the travelling maggot in his head...
+   
+   ...to tell you, Madam, that I am a man unblemished in my honour, have nobly served my king and country; and for 
+   a lady's service, I think that nature has not been defective.
+   
+   Madame, I have tought dat Fortune be one blind bitch.
  }
 }
 
@@ -3300,6 +3370,14 @@ Roland, Mme {
     
     A quatorze ans, comme aujourd'hui, j'avais environs cinq pieds; ma taille avait acquis toute sa croissance; la jambe 
     bien faite, le pied bien posé, les hanches très-relevées; la poitrine large et superbement meublée... 
+    
+    ...madame de Roudé, par exemple, qui, malgré son âge, aimait encore à faire belle gorge, et portait toujours la sienne 
+    à découvert, excepté lorsqu'elle montait en voiture, ou qu'elle en déscendait; car elle la cachait alors d'un grand 
+    mouchoir qu'elle tenait à sa poche dans cette intention, parce que, disait-elle, cela n'est pas fait pour montrer 
+    à des laquais.
+ 
+    «Mon père, je m'accuse... - Eh bien!» Que dire après? Le coeur me battait, le feu me montait au visage; certaine sueur se 
+    répandait partout: «Je m'accuse... d'avoir eu des mouvemens contraires à la chasteté chrétienne.» Ah! La bonne phrase!
   }
 }
 
@@ -3424,4 +3502,173 @@ Campan, Mme {
    héroïque de madame de Sérilly, condamnée le même jour que la princesse, mais qui obtint un sursis au moment de 
    l'exécution, madame de Montmorin, sa parente, ayant déclaré que sa cousine était grosse.   
  }
+}
+
+Pirsig, R. M. {
+ Zen and the Art of Motorcycle Maintenance {
+   When one person suffers from a delusion, it is called insanity. When many people suffer from a delusion it is called Religion.
+ }
+}
+
+Voltaire {
+ Those who make you believe absurdities can make you commit atrocities.
+}
+
+Rowe, N. {
+ Tamerlane {
+   Away! my soul disdains thy conference.
+   
+   pre(Oh, glorious thought! By Heav'n I will enjoy it,)
+Tho but in fancy; imagination shall
+Make room to entertain the vast idea.)
+ }
+ 
+ pre(...But standing now on the last verge of life,
+Boldy I view the vast abyss, eternity,
+Eager to plunge, and leave my woes behind me.)
+
+}
+
+Harari, Yuval {
+ Homo Deus {
+  Writing thus facilitated the appearance of powerful fictional entities...
+  
+  This obstacle was finally removed about 5,000 years ago, when the Sumerians invented both writing and money. 
+  These Siamese twins - born to the same parents at the same time and in the same place - broke the data-processing 
+  limitations of the human brain.
+  
+  ...witnesses in courts put their hand on a bible when swearing to tell the truth, the whole truth, and nothing but the truth.
+  It's ironic that they swear to tell the truth on a book brimming with so many fictions, myths, and errors.
+  
+  Stories serve as the foundations and pillars of human societies. As history unfolded, stories about gods, nations, and 
+  corporations grew so powerful that they began to dominate objective reality.
+  
+  The greatest scientific discovery was the discovery of ignorance.
+  
+  We see that the self too is an imaginary story, just like nations, gods and money.
+  Each of us has a sophisticated system that throws away most of our experiences, keeps only a few choice samples... and 
+  out of all that jumble it weaves a seemingly coherent story about who I am, where I came from and where I am going.
+ }
+ Sapiens {
+   How did em(Homo sapiens) manage to cross this critical threshold, eventually founding cities comprising tens of 
+   thousands of inhabitants, and empires ruling hundreds of millions? The secret was probably the appearance of fiction.
+   Large numbers of strangers can cooperate successfully by believing in common myths.
+   
+   According to the French legislators, if a certified lawyer followed all the proper liturgy and rituals, wrote all the required 
+   spells and oaths on a wonderfully decorated piece of paper, and affixed his ornate signature to the bottom of the document, 
+   then hocus pocus - a new company was incorporated.
+   
+   We did not domesticate wheat. It domesticated us. The word em(domesticate) comes from the Latin em(domus), which means 
+   em(house). Who's the one living in a house? Not the wheat. It's the em(Sapiens).
+   
+   Money was created many times in many places. Its development required no technological breakthroughs - it was a purely 
+   mental revolution. It involved the creation of a new inter-subjective reality that exists solely in people's imagination.
+   
+   There is no trace of [the belief in heaven and hell] in the Old Testament, which also never claims that the souls of 
+   people continue to live after the death of the body.
+   
+   These creeds do not like to be called religions, and refer to themselves as ideologies.
+   But this is just a semantic exercise. If a religion is a system of human norms and values that is founded on
+   belief in a superhuman order, then Soviet Communism was no less a religion than Islam.
+ }
+ 
+ There is no clear line. The whole thing works by being a bit opaque, cloudy, misty, and unclear.
+ We think that the world is divided quite clearly; there is fiction and there is reality; but usually they just get mixed together. 
+}
+
+Matyszak, Philip {
+ 24 Hours in Ancient Athens{
+   The hetaira's ideal beau is young, good-looking, lavishly and unfailingly generous, intelligent and good-tempered.
+   Sadly the species has been hunted to extinction, so hetairas compete viciously for any man with just two of the above qualities.
+ }
+}
+
+Martial {
+ Epigrams {
+   This slave girl, born of Fronto and Flacilla, was my delight whom I would hug and kiss.
+   Don't let little Erotion fear the dark shadows and the yawning mouths of Cerebus.
+   She was just that many days from finishing her sixth cold winter... May the soft turf 
+   cover her fragile bones, and lie lightly upon her, earth. She was never heavy on you.
+ }
+}
+
+Palin, Michael {
+  Himalaya {
+    He's horrendously overqualified for this sort of work, having twice summited Everest.
+    On one of those occasions he arrived at the top at 5.30 in the morning, so far ahead of the rest of the 
+    party that he lay down on top of Everest and fell asleep until they arrived. Now that is cool.
+  }
+}
+
+Maughan, W. Somerset {
+  The Moon and Sixpence {
+    The faculty for myth is innate in the human race.
+    
+    He made enemies rather than friends.
+    
+    But there is in my nature a strain of asceticism, and I have subjected my flesh each week to a more 
+    severe mortification. I have never failed to read the Literary Supplement of The Times.
+    
+    There is no object more deserving of pity than the married bachelor.
+  }
+}
+
+Goncourt, Edmond et Jules de {
+  Renée Mauperin {
+    That great force, Fashion, which in Paris affects everything, even a priest's cassock, had taken him up and 
+    launched him. People came to him from all parts. The ordinary, commonplace confessions were heard by other priests,
+    but all the choice sins were brought to him.
+    
+    Why, yes, I should like to be rich just to show the contempt I have for money.
+  }
+  Germinie Lacerteux {
+    Pendant des mois, elle resta insensible à tout; pendant des mois, envahie et remplie tout entière par la pensée du 
+    petit être qui n'était plus, elle porta dans ses entrailles la mort de son enfant comme elle avait porté sa vie.
+  }
+}
+
+Adams, Douglas {
+  Hitchhiker's Guide to the Galaxy {
+    ...and recently voted the Worst Dressed Sentient Being in the Known Universe for the seventh time.
+    
+    "Come on," he droned, "I've been ordered to take you down to the bridge. Here I am, brain the size of a planet and 
+    they ask me to take you down to the bridge. Call that job satisfaction? 'Cos I don't."
+  }
+}
+
+Montgomery, L. M.  {
+ The Blue Castle {
+   It was so easy to defy once you got started.
+   
+   In the Stirling clan ankles were among the unmentionables.
+   
+   "Can I acquire merit by getting or doing anything there for you or Cissy?"
+   
+   December. Early snows and Orion. The pale fires of the Milky Way.
+   
+   In the horrible but expressive slang phrase, she keeps all her goods in the shop-window.
+ }
+}
+
+Quincey, Thomas de {
+  Confessions of an English Opium-Eater {
+    ...I do not readily believe that any man, having once tasted the divine luxuries of opium, will afterwards 
+    descend to the gross and mortal enjoyments of alcohol...
+    
+    He still had his dying to do: he was in arrear as to em(that): else all was finished.
+    
+    ...in fact, there was nobody at all, except one woman, apparently middle-aged, meaning by em(that) 
+    from thirty-five to forty-five...
+    
+    But at present the whole artillery of her displeasure seemed to be unmasked...
+    
+    For tea, though ridiculed by those who are naturally coarse in their nervous sensibilities, or are become so from 
+    wine-drinking, and are not susceptible of influence from so refined a stimulant, will always be the favourite 
+    beverage of the intellectual...
+    
+    Here opens upon me an Iliad of woes...
+    
+    ...I discovered that it em(was) a decanter. Into this you may put a quart of ruby-coloured laudanum; that, and a book 
+    of German metaphysics placed by its side, will sufficiently attest to my being in the neighbourhood.
+  }
 }

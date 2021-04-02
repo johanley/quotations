@@ -1,3 +1,5 @@
+Douglas Adams|Hitchhiker's Guide to the Galaxy|...and recently voted the Worst Dressed Sentient Being in the Known Universe for the seventh time.
+Douglas Adams|Hitchhiker's Guide to the Galaxy|"Come on," he droned, "I've been ordered to take you down to the bridge. Here I am, brain the size of a planet and they ask me to take you down to the bridge. Call that job satisfaction? 'Cos I don't."
 Aeschylus|Prometheus Bound|More leisure than I wish is mine.
 Howard Aiken|NULL|Don't worry about people stealing your ideas. If your ideas are any good, you'll have to ram them down people's throats.
 Christopher Alexander|The Nature of Order, Book 1|In the 20th century we have passed through a unique period, one in which architecture as a discipline has been in a state that is almost unimaginably bad. Sometimes I think of it as a mass psychosis of unprecedented dimension, in which the people of earth - in large numbers and in almost all contemporary societies - have created a form of architecture which is against life, insane, image-ridden, hollow.
@@ -48,6 +50,8 @@ Aristotele|NULL|Chiunque può arrabbiarsi: questo è facile. Ma arrabbiarsi con 
 W. H. Auden|As I Walked Out One Evening|...The years shall run like rabbits^NL^For in my arms I hold^NL^The Flower of the Ages,^NL^And the first love of the world.^NL^^NL^But all the clocks in the city^NL^Began to whir and chime:^NL^O let not time deceive you,^NL^You cannot conquer time....^NL^^NL^In headaches and in worry^NL^Vaguely life leaks away,^NL^And Time will have his fancy^NL^To-morrow or today...^NL^
 Marco Aurelio|NULL|...ogni attimo una punta di eternità.
 Marco Aurelio|NULL|La morte sorride a tutti; un uomo non puo far altro che sorriderle di rimando.
+Jane Austen|Mansfield Park|...nor could he refrain from often saying to himself, in Mr. Rushworth's company, "If this man had not twelve thousand a year, he would be a very stupid fellow."
+Jane Austen|Mansfield Park|"Certainly, my home at my uncle's brought me acquainted with a circle of admirals. Of em(Rears), and em(Vices), I saw enough. Now, do not be suspecting me of a pun, I entreat." Edmund again felt grave, and only replied, "It is a noble profession."
 Jane Austen|Northanger Abbey|...and from habitude very little incommoded by the remarks and ejaculations of Mrs. Allen, whose vacancy of mind, and incapacity for thinking, were such that, as she never talked a great deal, so she could never be entirely silent.
 Jane Austen|Northanger Abbey|...it did not appear to her that life could supply any greater felicity.
 Jane Austen|Northanger Abbey|It was not within the power of his gallantry to detain her longer.
@@ -181,6 +185,8 @@ Theodore Dalrymple|Our Culture, What's Left Of It|One of them [photos of British
 Dante|NULL|L'amor che mi fa bella.
 Dante|NULL|Heaven calls to you and around you wheels, displaying to you its eternal beauties, and your eye gazes only upon the earth.
 Dante|NULL|Se tu segui tua stella, non puoi fallire a glorioso porto.
+Richard Dawkins|The God Delusion|I have found it an amusing strategy, when asked whether I am an atheist, to point out that the questioner is also an atheist when considering Zeus, Apollo, Amon Ra, Mithras, Baal, Thor, Wotan, the Golden Calf and the Flying Spaghetti Monster. I just go one god further.
+Richard Dawkins|The God Delusion|St. Augustine said it quite openly: 'There is another form of temptation, even more fraught with danger. This is the disease of curiosity.'
 Richard Dawkins|The Selfish Gene|The replicators which survived were the ones which built em(survival machines) for themselves to live in.
 Richard Dawkins|The Selfish Gene|They are in you and me; they created us, body and mind; and their preservation is the ultimate rationale for our existence. They have come a long way, those replicators. Now they go by the name of genes, and we are their survival machines.
 Richard Dawkins|The Selfish Gene|But genes are denizens of geological time: genes are forever.
@@ -235,6 +241,8 @@ Epictetus|NULL|Socrates never got wrought up during an argument, never used any 
 Epictetus|NULL|"When, then, shall I see Athens once more and the Acropolis?" Poor man, are you not satisfied with what you are seeing every day? Have you anything finer or greater to look at than the sun, the moon, the stars, the whole Earth, the sea? And if you really understand Him that governs the Universe, and bear Him about within you, do you yet yearn for bits of stone and a pretty rock?
 Euripide|NULL|Meglio avere come amico una persona che non è di casa ma si identifica con i tuoi modi di essere, piuttosto che mille parenti stretti.
 George Farquar|Sir Harry Wildair|Some time ago he had got the travelling maggot in his head...
+George Farquar|Sir Harry Wildair|...to tell you, Madam, that I am a man unblemished in my honour, have nobly served my king and country; and for a lady's service, I think that nature has not been defective.
+George Farquar|Sir Harry Wildair|Madame, I have tought dat Fortune be one blind bitch.
 Fedro|NULL|La vita è un giusto miscuglio di dolori e di gioie.
 Timothy Findlay|NULL|...Shem did nothing but eat and work and sleep. He thought of nothing else but these three things and was devoid of wonder.
 F. Scott Fitzgerald|The Great Gatsby|I think he'd tanked up a good deal at luncheon and his determination to have my company bordered on violence.
@@ -298,6 +306,10 @@ Gauss|Letter to Sophie Germain (1807)|The enchanting charms of this sublime scie
 Edward Gibbon|Decline and Fall of the Roman Empire|His manners were less pure, but his character was equally amiable with that of his father. Twenty-two acknowledged concubines, and a library of sixty-two thousand volumes, attested the variety of his inclinations; and from the productions which he left behind him, it appears that the former as well as the latter were designed for use rather than for ostentation.
 Edward Gibbon|Decline and Fall of the Roman Empire|Of the various forms of government which have prevailed in the world, an hereditary monarchy seems to present the fairest scope for ridicule.
 Edward Gibbon|Decline and Fall of the Roman Empire|Carus, taking off a cap which he wore to conceal his baldness, assured the ambassadors that, unless their master acknowledged the superiority of Rome, he would speedily render Persia as naked of trees as his own head was destitute of hair.
+Edward Gibbon|Decline and Fall of the Roman Empire|Confiscation, exile, or simple death, were esteemed uncommon instances of his lenity.
+Edward Gibbon|Decline and Fall of the Roman Empire|The peace of the Eastern church was invaded by a swarm of fanatics, incapable of fear, or reason, or humanity; and the Imperial troops acknowledged, without shame, that they were much less apprehensive of an encounter with the fiercest barbarians.
+Edward Gibbon|Decline and Fall of the Roman Empire|...the severity of the [Church] fathers, who despised all knowledge that was not useful to salvation, and who considered all levity of discourse as a criminal abuse of the gift of speech.
+Edward Gibbon|Decline and Fall of the Roman Empire|But it is always easy, as well as agreeable, for the inferior ranks of mankind to claim a merit from the contempt of that pomp and pleasure which fortune has placed beyond their reach.
 Josiah W. Gibbs|NULL|One of the principal objects of theoretical research is to find the point of view from which the subject appears in the greatest simplicity.
 André Gide|Les nourritures terrestres|At last we end by saying that He - the Unfindable - is everywhere, anywhere, and kneel down at haphazard.
 André Gide|Les nourritures terrestres|There were days when simply repeating to myself that two and two still made four was enough to fill me with positive beatitude... and other days when it was completely indifferent to me.
@@ -315,10 +327,27 @@ I. A. Goncharov|Oblomov|Lying down was not for Ilya Ilyitch either a necessity a
 I. A. Goncharov|Oblomov|He was never held captive by the beauties, however, never was their slave or even a very assiduous admirer, if only because intimacy with a woman involves a lot of exertion.
 I. A. Goncharov|Oblomov|Masha came to ask him if he would like to go and see the river freezing: everyone was going.
 I. A. Goncharov|Oblomov|Their sensitive minds were never tired of this beauty: the earth, the sky, the sea - all roused their feelings, and they sat side by side in silence, looking with one heart at the glory of creation.
+Edmond et Jules de Goncourt|Germinie Lacerteux|Pendant des mois, elle resta insensible à tout; pendant des mois, envahie et remplie tout entière par la pensée du petit être qui n'était plus, elle porta dans ses entrailles la mort de son enfant comme elle avait porté sa vie.
+Edmond et Jules de Goncourt|Renée Mauperin|That great force, Fashion, which in Paris affects everything, even a priest's cassock, had taken him up and launched him. People came to him from all parts. The ordinary, commonplace confessions were heard by other priests, but all the choice sins were brought to him.
+Edmond et Jules de Goncourt|Renée Mauperin|Why, yes, I should like to be rich just to show the contempt I have for money.
 Glenn Gould|NULL|The purpose of art is the lifelong creation of a state of wonder.
+Muriel Gray|NULL|But it has never been clearer that there is only one place to lay the blame [for 9/11] and it has ever been thus. The cause of all this misery, mayhem, violence, terror and ignorance is of course religion itself, and if it seems ludicrous to have to state such an obvious reality, the fact is that the government and the media are doing a pretty good job of pretending that it isn't so.
 Philip Greenspan|NULL|[Having venture capitalists run your company] was like watching a kindergarten class get into a Boeing 747 and flip all the switches and try to figure out why it didn't take off.
 Germaine Greer|NULL|In any library in the world, I am at home, unselfconscious, still, and absorbed.
 Alexander Grothendieck|Récoltes et semailles|It is in this gesture of "going beyond", to be something in oneself rather than the pawn of a consensus, the refusal to stay within a rigid circle that others have drawn around one - it is in this solitary act that one finds true creativity. All other things follow as a matter of course.
+Yuval Harari|Homo Deus|Writing thus facilitated the appearance of powerful fictional entities...
+Yuval Harari|Homo Deus|This obstacle was finally removed about 5,000 years ago, when the Sumerians invented both writing and money. These Siamese twins - born to the same parents at the same time and in the same place - broke the data-processing limitations of the human brain.
+Yuval Harari|Homo Deus|...witnesses in courts put their hand on a bible when swearing to tell the truth, the whole truth, and nothing but the truth. It's ironic that they swear to tell the truth on a book brimming with so many fictions, myths, and errors.
+Yuval Harari|Homo Deus|Stories serve as the foundations and pillars of human societies. As history unfolded, stories about gods, nations, and corporations grew so powerful that they began to dominate objective reality.
+Yuval Harari|Homo Deus|The greatest scientific discovery was the discovery of ignorance.
+Yuval Harari|Homo Deus|We see that the self too is an imaginary story, just like nations, gods and money. Each of us has a sophisticated system that throws away most of our experiences, keeps only a few choice samples... and out of all that jumble it weaves a seemingly coherent story about who I am, where I came from and where I am going.
+Yuval Harari|Sapiens|How did em(Homo sapiens) manage to cross this critical threshold, eventually founding cities comprising tens of thousands of inhabitants, and empires ruling hundreds of millions? The secret was probably the appearance of fiction. Large numbers of strangers can cooperate successfully by believing in common myths.
+Yuval Harari|Sapiens|According to the French legislators, if a certified lawyer followed all the proper liturgy and rituals, wrote all the required spells and oaths on a wonderfully decorated piece of paper, and affixed his ornate signature to the bottom of the document, then hocus pocus - a new company was incorporated.
+Yuval Harari|Sapiens|We did not domesticate wheat. It domesticated us. The word em(domesticate) comes from the Latin em(domus), which means em(house). Who's the one living in a house? Not the wheat. It's the em(Sapiens).
+Yuval Harari|Sapiens|Money was created many times in many places. Its development required no technological breakthroughs - it was a purely mental revolution. It involved the creation of a new inter-subjective reality that exists solely in people's imagination.
+Yuval Harari|Sapiens|There is no trace of [the belief in heaven and hell] in the Old Testament, which also never claims that the souls of people continue to live after the death of the body.
+Yuval Harari|Sapiens|These creeds do not like to be called religions, and refer to themselves as ideologies. But this is just a semantic exercise. If a religion is a system of human norms and values that is founded on belief in a superhuman order, then Soviet Communism was no less a religion than Islam.
+Yuval Harari|NULL|There is no clear line. The whole thing works by being a bit opaque, cloudy, misty, and unclear. We think that the world is divided quite clearly; there is fiction and there is reality; but usually they just get mixed together.
 Thomas Hardy|A Group of Noble Dames|After this they lived quietly and uneventfully for two or three years at Sir Ashley Mattisfont's residence in that part of England, with as near an approach to bliss as the climate of this country allows.
 Thomas Hardy|A Pair of Blue Eyes|A delightful place to be buried in, postulating that delight can accompany a man to his tomb under any circumstances.
 Thomas Hardy|A Pair of Blue Eyes|...the eternal hills and tower behind them were grayish-brown; the sky, dropping behind all, grey of the purest melancholy.
@@ -453,6 +482,12 @@ Xavier de Maistre|Expédition nocturne autour de ma chambre|Combien peu de perso
 Alberto Manguel|The Library at Night|At night I can read with a lightheartedness verging on insousiance.
 Alberto Manguel|The Library at Night|My books have unlimited patience. They will wait for me till the end of my days.
 Yann Martel|Beatrice and Virgil|The precept that location is the key to the success of a business applies to art, and even to life itself: we thrive or wither depending on how nourishing our environment is.
+Martial|Epigrams|This slave girl, born of Fronto and Flacilla, was my delight whom I would hug and kiss. Don't let little Erotion fear the dark shadows and the yawning mouths of Cerebus. She was just that many days from finishing her sixth cold winter... May the soft turf cover her fragile bones, and lie lightly upon her, earth. She was never heavy on you.
+Philip Matyszak|24 Hours in Ancient Athens|The hetaira's ideal beau is young, good-looking, lavishly and unfailingly generous, intelligent and good-tempered. Sadly the species has been hunted to extinction, so hetairas compete viciously for any man with just two of the above qualities.
+W. Somerset Maughan|The Moon and Sixpence|The faculty for myth is innate in the human race.
+W. Somerset Maughan|The Moon and Sixpence|He made enemies rather than friends.
+W. Somerset Maughan|The Moon and Sixpence|But there is in my nature a strain of asceticism, and I have subjected my flesh each week to a more severe mortification. I have never failed to read the Literary Supplement of The Times.
+W. Somerset Maughan|The Moon and Sixpence|There is no object more deserving of pity than the married bachelor.
 Guy de Maupassant|Au printemps|Oh! cet oeil de la femme, quelle puissance il a! Comme il trouble, envahit, possède, domine. Comme il semble profond, plein de promesses, d'infini! On appelle cela se regarder dans l'âme! Oh! monsieur, quelle blague! Si l'on y voyait, dans l'âme, on serait plus sage, allez.
 Guy de Maupassant|Découverte|Moi je crois que ce qui nous séduit le plus dans les exotiques, c'est leur défaut de prononciation. Aussitôt qu'une femme parle mal notre langue, elle est charmante; si elle fait une faute de français par mot, elle est exquise, et si elle baragouine d'une façon tout à fait inintelligible, elle devient irrésistible.
 Guy de Maupassant|Fort comme la mort|Ils sont incapables de s'attacher à une chose jusqu'à l'aimer uniquement, de s'intéresser à rien jusqu'à être illuminés par le bonheur de comprendre.
@@ -473,11 +508,13 @@ Guy de Maupassant|Oeuvres posthumes|Les mots ont une âme.
 Guy de Maupassant|Oeuvres posthumes|La profonde et délicieuse jouissance qui vous monte au coeur devant certaines pages, devant certaines phrases, ne vient pas seulement de ce qu'elles disent; elle vient d'une accordance absolue de l'expression avec l'idée, d'une sensation d'harmonie, de beauté secrète, échappant la plupart du temps au jugement des foules.
 Guy de Maupassant|Oeuvres posthumes|Il [Flaubert] avait pour les grands écrivains français une admiration frénétique; il possédait par coeur des chapitres entiers des maîtres, et il les déclamait d'une voix tonnante, grisé par la prose, faisant sonner les mots, scandant, modulant, chantant la phrase.
 Guy de Maupassant|Oeuvres posthumes|La misanthropie de ses oeuvres [Flaubert] ne vient pas d'autres chose. La saveur amère qui s'en degage n'est que cette constante constatation de la médiocrité, de la banalité, de la sottise sous toutes les formes.
+Guy de Maupassant|Oeuvres posthumes|Elle sait pourtant qu'elle va mourir, qu'elle ne verra point le printemps, que dans un an, le long de la même promenade, ces mêmes gens qui passent devant elle viendront encore respirer l'air tiède de ce doux pays, avec leurs enfants un peu plus grands, avec le coeur toujours rempli d'espoirs, de tendresses, de bonheur, tandis qu'au fond d'un cercueil de chêne la pauvre chair que lui reste encore aujourd'hui sera tombée en pourriture, laissant seulement ses os couchés dans la robe de soit qu'elle a choisie pour linceul.
 Guy de Maupassant|Qui sait?|Je ne refuse pas de voir le monde, de causer, de dîner avec des amis, mais lorsque je les sens depuis longtemps près de moi, même les plus familiers, ils me lassent, me fatiguent, m'énervent, et j'éprouve une envie grandissante, harcelante, de les voir partir ou de m'en aller, d'être seul.
 Guy de Maupassant|Solitude|Quoi que nous tentions, quoi que nous fassions, quels que soient l'élan de nos coeurs, l'appel de nos lèvres et l'étreinte de nos bras, nous sommes toujours seuls.
 Guy de Maupassant|Sur l'eau|Mais d'autres hommes, parcourant d'un éclair de pensée le cercle étroit des satisfactions possibles, demeurent atterrés devant le néant du bonheur, la monotonie et la pauvreté des joies terrestres.
 Guy de Maupassant|Sur l'eau|O liberté! liberté! seul bonheur, seul espoir et seul rêve!
 Guy de Maupassant|Sur l'eau|Certes, en certains jours, j'éprouve l'horreur de ce qui est jusqu'à désirer la mort. Je sens jusqu'à la souffrance suraiguë la monotonie invariable des paysages, des figures et des pensées. Le médiocrité de l'univers m'étonne et me révolte, la petitesse de toutes choses m'emplit de dégoût, la pauvreté des êtres humains m'anéantit.
+Guy de Maupassant|Sur l'eau|Comme je l'aime, cette dédicace de Jules Vallès: «A tous ceux qui, nourris de grec et de latin, sont morts de faim.»
 Guy de Maupassant|Une vie|Quelques pigeons se promenaient au bord du ruisseau, cherchant leur vie.
 Guy de Maupassant|Â Vendre|Partir à pied, quand le soleil se lève, et marcher dans la rosée, le long des champs, au bord de la mer calme, quelle ivresse!
 André Maurois|Climats|Les hommes livrent leur âme, comme les femme leur corps, par zones successives et bien défendues.
@@ -507,6 +544,11 @@ Leonard Mlodinow|The Drunkard's Walk|We habitually underestimate the effect of r
 Leonard Mlodinow|The Drunkard's Walk|Complete chaos is ironically a kind of perfection.
 Leonard Mlodinow|The Drunkard's Walk|Avoiding the illusion of meaning in random patterns is a difficult task.
 Leonard Mlodinow|The Drunkard's Walk|...we should learn to spend as much time looking for evidence that we are wrong as we spend searching for reasons we are correct.
+L. M. Montgomery|The Blue Castle|It was so easy to defy once you got started.
+L. M. Montgomery|The Blue Castle|In the Stirling clan ankles were among the unmentionables.
+L. M. Montgomery|The Blue Castle|"Can I acquire merit by getting or doing anything there for you or Cissy?"
+L. M. Montgomery|The Blue Castle|December. Early snows and Orion. The pale fires of the Milky Way.
+L. M. Montgomery|The Blue Castle|In the horrible but expressive slang phrase, she keeps all her goods in the shop-window.
 Christopher Moore|Sacré Bleu|The Louvre's a little pious, isn't it? Can't throw a round of darts in there without scoring three Madonnas and a baby Jesus.
 Christopher Moore|Sacré Bleu|Bruant wasn't being particularly unkind to Lucien. Everything at Le Mirliton was served with a side order of abuse.
 Christopher Moore|Sacré Bleu|They both waited, each took a drink, looked at her, said nothing. Dogs watching Shakespeare.
@@ -550,6 +592,7 @@ Flann O'Brien|At Swim-Two-Birds|Take all that shall be brought upon thee, and ke
 Flann O'Brien|At Swim-Two-Birds|...they wildly reproached each other with bitter words and groundless accusations of bastardy and low birth...
 Flann O'Brien|At Swim-Two-Birds|Blackheads are not so bad, said Furriskey. A good big boil on the back of your neck, that's the boy that will make you say your prayers at night. A boil is a fright. It's a fright now.
 Camille Paglia|NULL|Masculinity is aggressive, unstable, combustible. It is also the most creative cultural force in history.
+Michael Palin|Himalaya|He's horrendously overqualified for this sort of work, having twice summited Everest. On one of those occasions he arrived at the top at 5.30 in the morning, so far ahead of the rest of the party that he lay down on top of Everest and fell asleep until they arrived. Now that is cool.
 S. J. Perelman|The Road to Miltdown|The light of the bar was too dim to determine whether their lingerie had come from Bendel's or Bonwit's, but everything proclaimed them to be women not visibly harassed by the specter of want.
 S. J. Perelman|The Road to Miltdown|Scene: ... a small cheerless room equipped with the standard instruments of torture - a desk, two chairs, a filing cabinet.
 S. J. Perelman|The Road to Miltdown|He is in his mid-sixties, ramrod-straight, affects a white cavalry moustache and a buttonhole, and is well-dressed to the point of dandyism.
@@ -561,6 +604,7 @@ Petronius|Satyricon|But are not all the finest works of nature common property? 
 Charles Pierce|NULL|...the woof and warp of all thought and research is symbols, and the life of thought and science is the life inherent in symbols; so it is wrong to say that a good language is important to good thought, merely; for it is the essence of it.
 Pindaro|NULL|Sogno di un'ombra è l'uomo.
 Pindaro|NULL|Non desiderare, anima mia, la vita degli immortali, ma godi a fondo i beni alla tua porta.
+R. M. Pirsig|Zen and the Art of Motorcycle Maintenance|When one person suffers from a delusion, it is called insanity. When many people suffer from a delusion it is called Religion.
 Plutarco|NULL|Gli Spartani non chiedono quanti sono i nemici, ma dove si trovano.
 Edgar Allan Poe|NULL|It was a night of unusual gloom.
 Edgar Allan Poe|NULL|...out of joy is sorrow born. Either the memory of past bliss is the anguish of to-day, or the agonies which em(are) have their origin in the ecstasies which em(might have been).
@@ -661,6 +705,13 @@ Marcel Proust|À l'ombre des jeunes filles en fleurs|Et dès ce premier matin le
 Marcel Proust|À l'ombre des jeunes filles en fleurs|Mais avant tout j'avais ouvert mes rideaux dans l'impatience de savoir qu'elle était la Mer qui jouait ce matin-là au bord du rivage, comme une Néréïde. Car chacune de ces Mers ne restait jamais plus qu'un jour. Le lendemain il y en avait une autre qui parfois lui ressemblait. Mais je ne vis jamais deux fois la même.
 Marcel Proust|À l'ombre des jeunes filles en fleurs|Comment s'appelle-t-il, cet ostrogoth-là, me demandait Albertine...
 Marcel Proust|À l'ombre des jeunes filles en fleurs|Elle était de ces femmes à qui c'est un si grand plaisir de serrer la main qu'on est reconnaissant à la civilisation d'avoir fait du shake-hand un acte permis entre jeunes gens et jeunes filles qui s'abordent.
+Thomas de Quincey|Confessions of an English Opium-Eater|...I do not readily believe that any man, having once tasted the divine luxuries of opium, will afterwards descend to the gross and mortal enjoyments of alcohol...
+Thomas de Quincey|Confessions of an English Opium-Eater|He still had his dying to do: he was in arrear as to em(that): else all was finished.
+Thomas de Quincey|Confessions of an English Opium-Eater|...in fact, there was nobody at all, except one woman, apparently middle-aged, meaning by em(that) from thirty-five to forty-five...
+Thomas de Quincey|Confessions of an English Opium-Eater|But at present the whole artillery of her displeasure seemed to be unmasked...
+Thomas de Quincey|Confessions of an English Opium-Eater|For tea, though ridiculed by those who are naturally coarse in their nervous sensibilities, or are become so from wine-drinking, and are not susceptible of influence from so refined a stimulant, will always be the favourite beverage of the intellectual...
+Thomas de Quincey|Confessions of an English Opium-Eater|Here opens upon me an Iliad of woes...
+Thomas de Quincey|Confessions of an English Opium-Eater|...I discovered that it em(was) a decanter. Into this you may put a quart of ruby-coloured laudanum; that, and a book of German metaphysics placed by its side, will sufficiently attest to my being in the neighbourhood.
 Quintilian|Institutio Oratorio|It has always, therefore, been my custom not to tie myself down to universal or general rules... For rules are rarely of such a kind that their validity cannot be shaken and overthrown in some particular or other.
 Quintilian|Institutio Oratorio|If therefore we have received no fairer gift from heaven than speech, what shall we regard as so worthy of laborious cultivation, or in what should we sooner desire to excel our fellow-men, than that in which humanity excels all other living things?
 Quintilian|Institutio Oratorio|Style has three kinds of excellence: correctness, lucidity, and elegance.
@@ -675,8 +726,13 @@ Arthur Rimbaud|Une saison en enfer|Il faut être absolument moderne.
 Mme Roland|Mémoires|Sous le tranquil abri du toit paternel, j'étais heureuse dès l'enfance avec des fleurs et des livres: dans l'étroite enceinte d'une prison, au milieu des fers imposés par la tyrannie la plus révoltante, j'oublie l'injustice des hommes, leurs sottises et mes maux, avec des livres et des fleurs.
 Mme Roland|Mémoires|Enfin, je ne me suis mariée qu'à vingt-cinq ans, et avec une ame telle qu'on peut la présumer, des sens très-inflammables, beaucoup d'instruction sur divers objets; j'avais si bien évité l'instruction sur certain autre, que les événemens du mariage me parurent aussi surprenans que désagréables.
 Mme Roland|Mémoires|A quatorze ans, comme aujourd'hui, j'avais environs cinq pieds; ma taille avait acquis toute sa croissance; la jambe bien faite, le pied bien posé, les hanches très-relevées; la poitrine large et superbement meublée...
+Mme Roland|Mémoires|...madame de Roudé, par exemple, qui, malgré son âge, aimait encore à faire belle gorge, et portait toujours la sienne à découvert, excepté lorsqu'elle montait en voiture, ou qu'elle en déscendait; car elle la cachait alors d'un grand mouchoir qu'elle tenait à sa poche dans cette intention, parce que, disait-elle, cela n'est pas fait pour montrer à des laquais.
+Mme Roland|Mémoires|«Mon père, je m'accuse... - Eh bien!» Que dire après? Le coeur me battait, le feu me montait au visage; certaine sueur se répandait partout: «Je m'accuse... d'avoir eu des mouvemens contraires à la chasteté chrétienne.» Ah! La bonne phrase!
 Philip Roth|Portnoy's Complaint|And then, of course, my father is a man who has a certain amount of worrying to do each day, and sometimes he just has to forgo listening to the conversations going on around him in order to fulfill his anxiety requirement.
 Philip Roth|Portnoy's Complaint|"The Pumpkin", is what I called her, in commemoration of her pigmentation and the size of her can.
+N. Rowe|Tamerlane|Away! my soul disdains thy conference.
+N. Rowe|Tamerlane|Oh, glorious thought! By Heav'n I will enjoy it,)^NL^Tho but in fancy; imagination shall^NL^Make room to entertain the vast idea.
+N. Rowe|NULL|...But standing now on the last verge of life,^NL^Boldy I view the vast abyss, eternity,^NL^Eager to plunge, and leave my woes behind me.
 Rumi|NULL|Why do you stay in prison, when the door is so wide open?
 Rumi|NULL|Open the window in the centre of your chest, and let the spirits fly in and out.
 Rumi|NULL|Let the beauty we love be what we do.
@@ -831,12 +887,14 @@ Alfred de Vigny|Le journal d'un poète|Les illusions sont le pain de sots. L'hom
 Alfred de Vigny|Le journal d'un poète|Je me laissais dévorer par le vautour intérieur.
 Alfred de Vigny|Le journal d'un poète|Plus je vois, plus je m'aperçois que la seule chose essentielle, pour les hommes, c'est de tuer le temps. Dans cette vie dont nous chantons la brièveté sur tous les tons, notre plus grand ennemi, c'est le temps, dont nous avons toujours trop.
 Alfred de Vigny|Le journal d'un poète|L'homme, créature inachevée, tient encore du singe et du chien.
-Auguste de Villiers de L'Isle-Adam|Deux augures|Le public ne lit pas un journal pour penser ou réfléchir, que diable! On lit comme on mange.
-Auguste de Villiers de L'Isle-Adam|Deux augures|Je ne veux, derrière moi, que le néant.
-Auguste de Villiers de L'Isle-Adam|L'affichage céleste|Ne serait-ce pas de quoi étonner la Grande Ourse elle-même si, soudainement, surgissait entre ses pattes sublimes, cette annonce inquietante: "Faut-il des corsets, oui ou non?"
-Auguste de Villiers de L'Isle-Adam|L'intersigne|Pour conclure, me dit Maucombe en se levant, nous sommes ici pour témoigner, — par nos oeuvres, nos pensées, nos paroles et notre lutte contre la Nature, — pour témoigner si em(nous pesons le poids). Et il termina par une citation de Joseph de Maistre: «Entre l'Homme et Dieu, il n'y a que l'Orgueil.»
-Auguste de Villiers de L'Isle-Adam|La convive des dernières fêtes|Lorsque Stendhal voulait écrire une histoire d'amour un peu sentimentale, il avait coutume, on le sait, de relire d'abord une demi-douzaine de pages du Code pénal pour, - disait-il, - se donner le ton.
-Auguste de Villiers de L'Isle-Adam|Le désir d'être un homme|...le vieil abîme des cieux...
+Alfred de Vigny|Servitudes et grandeurs militaires|L'admiration est corrumpue et corruptrice. On doit bien faire pour soi-même, et non pour le bruit.
+A. de Villiers de L'Isle-Adam|Deux augures|Le public ne lit pas un journal pour penser ou réfléchir, que diable! On lit comme on mange.
+A. de Villiers de L'Isle-Adam|Deux augures|Je ne veux, derrière moi, que le néant.
+A. de Villiers de L'Isle-Adam|L'affichage céleste|Ne serait-ce pas de quoi étonner la Grande Ourse elle-même si, soudainement, surgissait entre ses pattes sublimes, cette annonce inquietante: "Faut-il des corsets, oui ou non?"
+A. de Villiers de L'Isle-Adam|L'intersigne|Pour conclure, me dit Maucombe en se levant, nous sommes ici pour témoigner, — par nos oeuvres, nos pensées, nos paroles et notre lutte contre la Nature, — pour témoigner si em(nous pesons le poids). Et il termina par une citation de Joseph de Maistre: «Entre l'Homme et Dieu, il n'y a que l'Orgueil.»
+A. de Villiers de L'Isle-Adam|La convive des dernières fêtes|Lorsque Stendhal voulait écrire une histoire d'amour un peu sentimentale, il avait coutume, on le sait, de relire d'abord une demi-douzaine de pages du Code pénal pour, - disait-il, - se donner le ton.
+A. de Villiers de L'Isle-Adam|Le désir d'être un homme|...le vieil abîme des cieux...
+Voltaire|NULL|Those who make you believe absurdities can make you commit atrocities.
 Geoffrey Wall|Flaubert: A Life|Flaubert's friends were often obliged to stretch their sense of the comic beyond its comfortable limits.
 Weber|Mémoires|...[les conseils officieux] nous informèrent aussi que la guillotine avait été déclarée permanente sur la place du Carrousel; que cette place venait d'être nommée place de l'Egalité [août 1792].
 Alfred North Whitehead|Introduction to Mathematics|Civilization advances by extending the number of important operations which we can perform without thinking about them.
@@ -869,6 +927,13 @@ P. G. Wodehouse|Carry On, Jeeves|I was walking back along the shore,... when I s
 P. G. Wodehouse|Carry On, Jeeves|"Yes, sir," said Jeeves, in a low, cold voice, as if he had been bitten in the leg by a personal friend.
 P. G. Wodehouse|Carry On, Jeeves|Nobody has a greater respect than I have for your judgement in socks, in ties, and - I will go farther - in spats; but when it comes to evening shirts your nerve seems to fail you. You have no vision. You are prejudicial and reactionary. Hidebound is the word that suggests itself.
 P. G. Wodehouse|Carry On, Jeeves|You may say what you want against Bingo, but nobody has ever found him a depressing host. Why, many a time in the days of his bachelorhood I've known him to start throwing bread before the soup course.
+P. G. Wodehouse|The Code of the Woosters|You've met her. She came to lunch at the flat a week or two ago. Smallish girl of about the tonnage of Jessie Matthews.
+P. G. Wodehouse|The Code of the Woosters|For Madeline Basset was undeniably of attractive exterior - slim, em(svelte), if that's the word, and bountifully equipped with golden hair and all the fixings.
+P. G. Wodehouse|The Code of the Woosters|Yes. They were arguing about something, and Augustus told him to go and boil his head.
+P. G. Wodehouse|The Code of the Woosters|Since you ask, Spode, I want to know what the devil you mean by keeping coming into my private apartment, taking up space which I require for other purposes and interrupting me when I am chatting with my personal friends.
+P. G. Wodehouse|The Code of the Woosters|She had been as tough as a restaurant steak, and she continued as tough as a restaurant steak.
+P. G. Wodehouse|The Code of the Woosters|It was plain from old Bassett's manner that he was not prepared to classify this under the heading of tidings of great joy.
+P. G. Wodehouse|The Code of the Woosters|I ventured to suggest that it might be possible to induce him to leave his post by conveying word to him that the parlourmaid Mary, to whom he was betrothed, wished to confer with him in the raspberry bushes.
 Marguerite Yourcenar|How Wang Fo Was Saved|After the wedding, Ling's parents became discreet to the point of dying...
 Stefan Zweig|Moonbeam Alley|Her dress was disorderly, her voice husky from too much smoking and beer-drinking. Here indubitably was a fellow-mortal who was weary unto death, and who only continued living out of long-established habit.
 Stefan Zweig|Transfiguration|There was something saucy in this ostentation. Was she a confirmed flirt? Was she stirred by a surplus of animal passion? I drew a step nearer, for I had been infected by her sauciness.
