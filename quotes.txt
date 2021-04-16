@@ -225,8 +225,10 @@ Rimbaud, Arthur {
 }
 
 Dylan, Bob {
- pre(Well I'm living in a foreign country, but I'm bound to cross the line
-Beauty walks a razor's edge, some day I'll make it mine.) 
+ pre(Well I'm living in a foreign country,
+But I'm bound to cross the line.
+Beauty walks a razor's edge,
+Some day I'll make it mine.) 
  
  The ghost of 'lectricity howls in the bones of her face.
 }
@@ -2215,8 +2217,8 @@ Whitman, Walt {
     pre(I bequeath myself to the dirt to grow from the grass I love, 
 If you want me again look for me under your boot-soles.)
   
-  pre(If you would understand me go to the heights or water-shore,
-The nearest gnat is an explanation...)
+  If you would understand me go to the heights or water-shore. 
+  The nearest gnat is an explanation...
 
     And I or you pocketless of a dime may purchase the pick of the earth,
     and to glance with an eye or show a bean in its pod confounds the learning of all times,
@@ -3518,7 +3520,7 @@ Rowe, N. {
  Tamerlane {
    Away! my soul disdains thy conference.
    
-   pre(Oh, glorious thought! By Heav'n I will enjoy it,)
+   pre(Oh, glorious thought! By Heav'n I will enjoy it,
 Tho but in fancy; imagination shall
 Make room to entertain the vast idea.)
  }
