@@ -1166,7 +1166,7 @@ Vigny, Alfred de {
     
     L'homme, créature inachevée, tient encore du singe et du chien.
   }
-  Derniere nuit de travail {
+  Dernière nuit de travail {
     ...Il ne lui faut que deux choses: la vie et la rêverie; le em(pain) et le em(temps).
   }
   Servitudes et grandeurs militaires {
@@ -2217,7 +2217,7 @@ Whitman, Walt {
     pre(I bequeath myself to the dirt to grow from the grass I love, 
 If you want me again look for me under your boot-soles.)
   
-  If you would understand me go to the heights or water-shore. 
+  If you would understand me go to the heights or water-shore.
   The nearest gnat is an explanation...
 
     And I or you pocketless of a dime may purchase the pick of the earth,
