@@ -72,6 +72,7 @@ Jane Austen|Sense and Sensibility|Elinor agreed to it all, for she did not think
 Francis Bacon|Novum Organum|Truth emerges more readily from error than from confusion.
 Alessandro Baricco|Océan Mer|Elle n'a pas de murs, Tombouctou, parce que là-bas ils pensent, depuis toujours, que sa beauté suffirait, à elle seule, pour arrêter n'importe quel ennemi.
 Alessandro Baricco|Océan Mer|Plage. Et mer.^NL^Lumière.^NL^Le vent du nord.^NL^Le silence des marées.^NL^Des jours. Des nuits.^NL^Une liturgie. Immobile, si on regarde bien. em(Immobile.)
+Cyrille Barrette|Mystère sans magie|Le scientifique rejette systématiquement, catégoriquement, sans nuance et sans appel toutes les explications qui invoqueraient, même partiellement et de très loin, le surnaturel, la magie et le miracle.
 Basho|NULL|The temple bell stops,^NL^but the sound keeps coming^NL^out of the flowers.
 Charles Baudelaire|Le voyage|Mais les vrais voyageurs sont ceux-là seuls qui partent^NL^Pour partir, coeurs légers, semblables aux ballons,^NL^De leur fatalité jamais ils ne s'écartent,^NL^Et, sans savoir pourquoi, disent toujours : Allons!
 Charles Baudelaire|Petits poèmes en prose|Grand délice que celui de noyer son regard dans l'immensité du ciel et de la mer! Solitude, silence, incomparable chasteté de l'azur!
@@ -147,6 +148,18 @@ Emily Brontë|Julian M. and A.G. Rochelle|Oh, dreadful is the check - intense th
 Bill Bryson|A Short History of Nearly Everything|Being you is not a gratifying experience at the atomic level.
 Bill Bryson|A Short History of Nearly Everything|Space is extremely well named and rather dismayingly uneventful.
 Bill Bryson|A Short History of Nearly Everything|There seemed to be a mystifying universal conspiracy among textbook authors to make certain the material they dealt with never strayed too near the realm of the mildly interesting, and was always at least a long-distance phone call from the frankly interesting.
+C. Singer et. al.|A History of Technology|The restriction of the various Semitic alphabets to consonants is difficult to explain, but it must be remembered that the structure of all the Semitic languages rests on the basis of consonantal bi-lateral or tri-lateral roots. These give the essential conception of the word, the vowels only providing the relations, case, tense, mood, and so forth [swim, swam, swum].
+C. Singer et. al.|A History of Technology|The Egyptians of the Old Kingdom had discovered the principle of expressing a single sound, whether consonant or vowel, by a single sign. Owing to their intense conservatism, they did not fully use it.
+C. Singer et. al.|A History of Technology|By the middle of the fourth century B.C., however, the Ionic alphabet of 24 letters had become standardized. It was the most perfect instrument for recording and preserving human speech that had come into existence.
+C. Singer et. al.|A History of Technology|It is a common fallacy to suppose that monkeys cannot oppose the thumb to the other digits.
+C. Singer et. al.|A History of Technology|An analysis of the better-defined tools from Choukoutien has shown that the majority were chipped by right-handed persons. Monkeys and apes are usually indifferent to which hand they use, and the acquisition of greater skill in the one hand is a human trait linked with the dominance of one side of the brain, and doubtless connected with the habitual use of tools. Ninety-five percent of modern adult human beings are right-handed, but left-handedness was commoner in earlier times, as it is still among untrained infants.
+C. Singer et. al.|A History of Technology|When Europeans first explored Australia there were some 500 tribes with a total population of about 300,000...There were as many languages as tribes.
+C. Singer et. al.|A History of Technology|Yet from the meagre data available it appears that all early vehicles shared one other peculiarity besides solid wheels - namely paired draught.
+C. Singer et. al.|A History of Technology|One result of [the development of Neolithic farming] is that it now became worthwhile to keep prisoners as slaves instead of eating or torturing them...
+C. Singer et. al.|A History of Technology|At the same time, metal-workers were among the first full-time specialists in industrial production, though specialists in magic or religion may have become so earlier.
+C. Singer et. al.|A History of Technology|In the Mediterranean, deforestation had become serious by classical times...
+C. Singer et. al.|A History of Technology|The diet of the masses in ancient Greece and Rome consisted of little but bread and a porridge of wheat or barley supplemented by vegetable, fish, and spice.
+C. Singer et. al.|A History of Technology|The [medieval] diet of the masses was mainly vegetarian and frugal, two meals being usual.
 Mme Campan|Mémoires|Ces excursions secrètes, la fréquentation trop habituelle de Louis XV avec des demoiselles dont les charmes remplaçaient les avantages de l'éducation...
 Mme Campan|Mémoires|Je rentrai chez moi pour écrire cette conversation.
 Mme Campan|Mémoires|Puisque la fortune est si volage et que vous avez vu par vos propres yeux avec quelle rapidité elle abandonne ses favoris, n'oubliez jamais ces deux vers de La Fontaine, et qu'ils vous servent de devise: em(Travaillez, prenez de la peine; C'est le fonds qui manque le moins.)
@@ -155,6 +168,12 @@ Mme Campan|Mémoires|C'était particulièrement contre la reine que l'insurrecti
 Mme Campan|Mémoires|Le chevalier de Dampierre avait été tué près de la voiture du roi, en sortant de Varennes. Un pauvre curé de village, à quelques lieues de l'endroit où ce crime venait d'être commis, eut l'imprudence de s'approcher pour parler au roi; les cannibales qui environnaient la voiture se jettent sur lui. "Tigres, leur cria Barnave, avez-vous cessé d'être Français? Nation de braves, êtes-vous devenue un peuple d'assassins?..." Ces seules paroles sauvèrent d'une mort certaine le curé déjà terrassé. Barnave, en les prononçant, s'était jeté presque hors la portière, et madame Élisabeth, touchée de ce noble élan, le retenait par la basque de son habit.
 Mme Campan|Mémoires|La grande piété de madame Élisabeth donnaient à ses actions et à ses discours une noblesse qui peignait celle de son ame. Le jour où l'on immola cette digne descendante de saint Louis, le bourreau, en lui attachant les mains derrière le dos, releva une des pointes du devant de son fichu. Madame Élisabeth, avec un calme et une voix qui semblait ne pas venir de la terre, lui dit ces mots: "Au nom de la pudeur, couvrez-moi le sein." J'ai appris ce trait héroïque de madame de Sérilly, condamnée le même jour que la princesse, mais qui obtint un sursis au moment de l'exécution, madame de Montmorin, sa parente, ayant déclaré que sa cousine était grosse.
 Albert Camus|Jonas, or the Artist at Work|Louisa's vocation was activity. Such a vocation happily complemented Jonas's taste for inertia.
+M. Capek|The Philosophical Impact of Contemporary Physics|The intensity of every astonishment gradually wears off; the human mind, by the sheer effect of repetition and habit, gradually becomes accustomed to even the strangest and least familiar ideas.
+M. Capek|The Philosophical Impact of Contemporary Physics|It frequently happens that within one and the same mind the true grasp of the mathematical side of the theory coexists with serious misapprehensions of its physical and especially its philosophical meaning....
+M. Capek|The Philosophical Impact of Contemporary Physics|This plainly shows that the term "curvature" is essentially metaphorical, for it is based on an analogy with curvature of two-dimensional surfaces.
+M. Capek|The Philosophical Impact of Contemporary Physics|...the law of gravitation is a generalized law of inertia.
+M. Capek|The Philosophical Impact of Contemporary Physics|What is left of the classical definition of space as "simultaneous juxtaposition of points?" Nothing but a word with misleading connotations.
+M. Capek|The Philosophical Impact of Contemporary Physics|Yet the idea of a timeless container, in which all matter is located and in which all motion takes place, has such deep roots in the very structure of human imagination that it is almost impossible to get rid of it.
 Carl Jung|Collected Works, v.10|With many men of twenty-five the period of psychological puberty is not yet over.
 Carl Jung|Psychology and Alchemy|Experience, not books, is what leads to understanding.
 Nicolas Carr|The Shallows|The Net is, by design, an interruption system, a machine geared for dividing attention.
@@ -170,6 +189,7 @@ Joseph Conrad|Nostromo|There is no credulity so eager and blind as the credulity
 Joseph Conrad|Nostromo|The heroic Garibaldino sat on the same bench bowing his hoary head, his old soul dwelling alone with its memories, tender and violent, terrible and dreary - solitary on the earth full of men.
 Joseph Conrad|The Shadow-Line|He, as I knew, was not in a state to interest himself in any sublunary matters.
 Joseph Conrad|The Shadow-Line|He would have amused me if I had wanted to be amused.
+Copernicus|De Revolutionibus|...the order and magnitude of the stars and all of their orbits and the heaven itself are so connected that in no part can anything be transposed without confusion to the rest and to the whole universe.
 Douglas Coupland|Miss Wyoming|...when you grow up these days, you're told you're going to have four or five different careers during your lifetime. But what they don't tell you is that you're also going to be four or five different people along the way.
 Stephen Crane|The Red Badge of Courage|"I'm commencin' t' feel pretty bad," said the tattered man, suddenly breaking one of his little silences. "I'm commencin' t' feel pretty damn bad".
 Stephen Crane|The Red Badge of Courage|It appeared that the swift wings of their desires would have shattered against the iron gates of the impossible.
@@ -192,6 +212,15 @@ Richard Dawkins|The Selfish Gene|They are in you and me; they created us, body a
 Richard Dawkins|The Selfish Gene|But genes are denizens of geological time: genes are forever.
 Richard Dawkins|The Selfish Gene|The genes are master programmers, and they are programming for their lives. They are judged according to the success of their progress in coping with all the hazards which life throws at their survival machines, and the judge is the ruthless judge of the court of survival.
 Tom DeMarco|Structured Analysis and System Specification|The human mind is an iterative processor. It never does anything precisely right the first time. What it does consummately well is to make a slight improvement to a flawed product.
+Jared Diamond|The World Until Yesterday|A recurring theme is that the other Westerners and I are struck by the emotional security, self-confidence, curiosity, and autonomy of members of small-scale societies, not only as adults but already as children.
+Jared Diamond|The World Until Yesterday|In 1931 no New Guinean born in Goroka had ever visited Wapenamanda a mere 107 miles to the west; the idea of traveling from Goroka to Wapenamanda, without being killed by an unknown stranger within the first 10 miles from Goroka, would have been unthinkable.
+Jared Diamond|The World Until Yesterday|"People are basically the same everywhere." No, I eventually came to realize, in many basic ways we are not all the same....
+Jared Diamond|The World Until Yesterday|...the independence, security, and social maturity of children in traditional societies impress all visitors who have come to know them.
+Jared Diamond|The World Until Yesterday|First contact with previously uncontacted tribal peoples is terrifying. Neither side knows what the other side wants or will do.
+Jared Diamond|The World Until Yesterday|Ever since my first trip to New Guinea, I have been impressed by how much more time New Guineans spend talking with each other than do we Americans and Europeans.... Talking is the main form of entertainment in New Guinea.
+Jared Diamond|The World Until Yesterday|As a result, food is a major and almost constant subject of conversation...The significance of sex and food is reversed between the Siriono and us Westerners; the Siriono's strongest anxieties are about food, they have sex virtually whenever they want, and sex compensates for food hunger, while our strongest anxieties are about sex, we have food virtually whenever we want, and eating compensates for sexual frustration.
+Jared Diamond|The World Until Yesterday|Among those 20 New Guineans, the smallest number of languages that anyone spoke was 5. Several men spoke from 8 to 12 languages, and the champion was a man who spoke 16.
+Jared Diamond|The World Until Yesterday|For instance, no one in the densely populated mountain valleys of the main body of New Guinea had seen or even heard of the ocean, lying at a distance of only 50 to 120 miles.
 Edsger W. Dijkstra|Goto Statement Considered Harmful|...our intellectual powers are rather geared to master static relations and that our powers to visualize processes evolving in time are relatively poorly developed.
 Edsger W. Dijkstra|The Humble Programmer|Perhaps the most saddening thing now is that, even after all those years of frustrating experience, still so many people honestly believe that some law of nature tells us that machines have to be that way. They silence their doubts by observing how many of these machines have been sold, and derive from that observation the false sense of security that, after all, the design cannot have been that bad. But upon closer inspection, that line of defense has the same convincing strength as the argument that cigarette smoking must be healthy because so many people do it.
 Edsger W. Dijkstra|The Humble Programmer|We should recognise the closed subroutine as one of the greatest software inventions; it has survived three generations of computers, and it will survive a few more, because it caters for the implementation of one of our basic patterns of abstraction.
@@ -208,7 +237,7 @@ George Du Maurier|Trilby|... le bon temps où l'on était si malheureux.
 W. E. B. Dubois|NULL|I sit with Shakespeare and he winces not. Across the color-line I move arm in arm with Balzac and Dumas, where smiling men and welcoming women glide in gilded halls. From out the caves of the evening that swing between the strong-limbed earth and the tracery of the stars, I summon Aristotle and Aurelius... and they come all graciously with no scorn nor condescension.
 Alexandre Dumas|Les trois mousquetaires|Allons nous faire tuer où l'on nous dit d'aller. La vie vaut-elle la peine de faire autant de questions?
 Benoît Duteurtre|Le voyage en France|Pour l'heure, je devais reprendre le train, continuer à pédaler sur les quais du port, rêver du New York au bord de la mer, fumer des cigarettes au bistrot en parlant d'amour et d'anarchie.
-Bob Dylan|NULL|Well I'm living in a foreign country, but I'm bound to cross the line^NL^Beauty walks a razor's edge, some day I'll make it mine.
+Bob Dylan|NULL|Well I'm living in a foreign country,^NL^But I'm bound to cross the line.^NL^Beauty walks a razor's edge,^NL^Some day I'll make it mine.
 Bob Dylan|NULL|The ghost of 'lectricity howls in the bones of her face.
 George Eliot|Felix Holt, the Radical|Harold Transome was neither the dissolute cosmopolitan so vigorously sketched by the em(Tory Herald), nor the intellectual giant and moral lobster suggested by the liberal imagination of the em(Watchman).
 George Eliot|Felix Holt, the Radical|Harold preferred a slow-witted large-eyed woman, silent and affectionate, with a load of black hair weighing much more heavily than her brains.
@@ -240,16 +269,19 @@ Epictetus|NULL|Although life is a matter of indifference, the use which you make
 Epictetus|NULL|Socrates never got wrought up during an argument, never used any term of abuse or insolence, but endured the abuse of others, and put an end to strife.
 Epictetus|NULL|"When, then, shall I see Athens once more and the Acropolis?" Poor man, are you not satisfied with what you are seeing every day? Have you anything finer or greater to look at than the sun, the moon, the stars, the whole Earth, the sea? And if you really understand Him that governs the Universe, and bear Him about within you, do you yet yearn for bits of stone and a pretty rock?
 Euripide|NULL|Meglio avere come amico una persona che non è di casa ma si identifica con i tuoi modi di essere, piuttosto che mille parenti stretti.
+E. E. Evans-Pritchard|Theories of Primitive Religion|For instance, many peoples are convinced that deaths are caused by witchcraft. To speak of witchcraft being for these peoples a supernatural agency hardly reflects their own view of the matter, since from their point of view nothing could be more natural.
 George Farquar|Sir Harry Wildair|Some time ago he had got the travelling maggot in his head...
 George Farquar|Sir Harry Wildair|...to tell you, Madam, that I am a man unblemished in my honour, have nobly served my king and country; and for a lady's service, I think that nature has not been defective.
 George Farquar|Sir Harry Wildair|Madame, I have tought dat Fortune be one blind bitch.
 Fedro|NULL|La vita è un giusto miscuglio di dolori e di gioie.
 Timothy Findlay|NULL|...Shem did nothing but eat and work and sleep. He thought of nothing else but these three things and was devoid of wonder.
+Raymond Firth|Tikopia Life and Ritual|The reasons for sorcery are mainly those of economics or of personal status; desire for land; wish to punish for theft of food; jealousy of competitive achievement; resentment at a personal affront.
 F. Scott Fitzgerald|The Great Gatsby|I think he'd tanked up a good deal at luncheon and his determination to have my company bordered on violence.
 F. Scott Fitzgerald|The Great Gatsby|When the melody rose her voice broke up sweetly, following it, in a way contralto voices have, and each change tipped out a little of her warm human magic upon the air.
 F. Scott Fitzgerald|The Great Gatsby|"Can't repeat the past?" he cried incredulously. "Why of course you can!"
 F. Scott Fitzgerald|The Great Gatsby|"Her voice is full of money," he said suddenly.
 Quinto Orazio Flacco|NULL|Ciò che cerchiamo o è qui o in nessun luogo.
+Flammarion and Gore|Popular Astronomy|Writers who know nothing of the true poetry of modern science have supposed that the perception of the sublime is born of ignorance, and that to admire, it is necessary not to know. This is assuredly a strange error...
 Gustave Flaubert|L'éducation sentimentale|Il trouvait que le bonheur mérité par l'excellence de son âme tardait à venir.
 Gustave Flaubert|L'éducation sentimentale|...il accompagnait une femme d'une cinquantaine d'années, laide, magnifiquement vêtue, et d'un rang social problématique.
 Gustave Flaubert|L'éducation sentimentale|Les cœurs des femmes sont comme ces petits meubles à secret, pleins de tiroirs emboîtés les uns dans les autres; on se donne du mal, on se casse les ongles, et on trouve au fond quelque fleur desséchée, des brins de poussière ou le vide!
@@ -298,8 +330,12 @@ Harry Frankfurt|On Bullshit|For the essence of bullshit is not that it is em(fal
 Harry Frankfurt|On Bullshit|The problem of understanding why our attitude toward bullshit is generally more benign than our attitude toward lying is an important one, which I shall leave as an exercise for the reader.
 Harry Frankfurt|On Bullshit|It is impossible for someone to lie unless he thinks he knows the truth. Producing bullshit requires no such conviction.
 Harry Frankfurt|On Bullshit|[The bullshitter] does not reject the authority of the truth, as the liar does, and oppose himself to it. He pays no attention to it at all. By virtue of this, bullshit is a greater enemy of the truth than lies are.
+J. G. Frazer|The Golden Bough|Whatever doubts science may entertain as to the possibility of action at a distance, magic has none...
+J. G. Frazer|The Golden Bough|...may we not reasonably conjecture that...just as on the material side of human culture there has everywhere been an Age of Stone, so on the intellectual side there has everywhere been an Age of Magic?
+J. G. Frazer|The Golden Bough|This universal faith, this truly Catholic creed, is a belief in the efficacy of magic. While religious systems differ not only in different countries, but in the same country in different ages, the system of sympathetic magic remains everywhere and at all times substantially alike in its principles and practice.
 Eugène Fromentin|Dominique|Toute la question est là: trouver ce qui convient à sa nature et ne copier le bonheur de personne.
 Northrop Frye|NULL|A big library really has the gift of tongues and vast potencies of telepathic communication.
+Galileo|NULL|Philosophy is written in this grand book of the universe, which stands continually open to our gaze. But the book cannot be understood unless one first learns to comprehend the language in which it is composed. em(It is written in the language of mathematics)...
 Ava Gardner|NULL|Deep down, I'm pretty superficial.
 François Garnier|L'âne à la lyre|On a pu constater que la reprise des erreurs était si fréquente que le phenomène de répétition crée une forme apparente de vérité, pernicieuse et tenace.
 Gauss|Letter to Sophie Germain (1807)|The enchanting charms of this sublime science reveal themselves only to those who have the courage to go deeply into it. But when a woman, who because of her sex and our prejudices encounters infinitely more obstacles than a man in familiarizing herself with complicated problems, succeeds nevertheless in surmounting these obstacles and penetrating the most obscure parts of them, without doubt she must have the noblest courage, quite extraordinary talents and superior genius.
@@ -319,6 +355,10 @@ André Gide|Les nourritures terrestres|Everything is prepared for the organizati
 André Gide|Les nourritures terrestres|From the day that I succeeded in persuading myself that I had no need to be happy, happiness began to dwell in me....
 Jean Giradoux|Ondine|Plus on souffre, plus on est heureux.
 Jean Giradoux|Ondine|A babord le néant, à tribord l'oubli...
+Peter Godfrey-Smith|Theory and Reality|Although mathematics is clearly of huge importance in the development of physics, one of the greatest achievements in all of science - Darwin's achievement in em(On the Origin of Species) - makes no real use of mathematics.
+Peter Godfrey-Smith|Theory and Reality|For Popper, an inspiring example of genuine science was the work of Einstein. Examples of pseudo-science were Freudian psychology and Marxist views about society and history.
+Peter Godfrey-Smith|Theory and Reality|And crucially, for Popper it is never possible to confirm or establish a theory by showing its agreement with observations. em(Confirmation is a myth.) The only thing that an observational test can do is to show that a theory is false.
+Peter Godfrey-Smith|Theory and Reality|The humanities had gone to hell, and now they were trying to wreck science as well, via endless relativist bleating that science is "just another approach to knowledge with no special status."
 Goethe|Faust|Two souls, alas, are housed within my breast,^NL^and each will wrestle for the mastery there.
 Goethe|Faust|A dose of that within your guts my boy,^NL^and every other wench is Helen of Troy.
 Goethe|Faust|And feel, in what that one look brings,^NL^a beggar with the wealth of kings.
@@ -383,7 +423,14 @@ Thomas Hardy|Under the Greenwood Tree|...it was an accepted thing that Leaf didn
 Thomas Hardy|Under the Greenwood Tree|Thereupon he plunged in his hands, and they paddled together. It being the first time in his life that he touched female fingers under water, Dick duly registered the sensation as rather a nice one.
 Thomas Hardy|Under the Greenwood Tree|...they were never to be seen drawing the back of the hand across the mouth after drinking - a local English custom of extraordinary antiquity, but stated by Fancy to be decidedly dying out among the better classes of society.
 William Hazlitt|NULL|The studied forms of politeness do not give the greatest possible scope to an exuberance of wit and fancy. The fear of giving offence destroys sincerity, and without sincerity there can be no true enjoyment of society, nor unfettered exertion of intellectual activity.
+Hegel|NULL|Magic has existed among all peoples and at every period.
 Ernest Hemingway|The Sun Also Rises|I've not had this much fun since the war.
+Herodotus|NULL|...since she was well-endowed with the blessings of Aphrodite, she acquired a large fortune.
+Herodotus|NULL|...for long ago the Hellenes distinguished themselves from barbarians by their superior cleverness and freedom from naive stupidity.
+Herodotus|NULL|According to this law, an Egyptian could get a loan by declaring his father's corpse as security.
+Herodotus|NULL|In the middle of their heated argument, seven pairs of hawks pursuing and pecking violently at a pair of eagles appeared above them. When they saw this, they all approved of Darius' plan and, emboldened by this omen of the birds, continued on toward the palace.
+Herodotus|NULL|For even in such a short span of life, no human being is born so fortunate...that the wish to be dead rather than alive will not occur to him, and not just once, but often.
+David Hilbert|NULL|I do not see that the sex of a candidate is an argument against her [Emmy Noether's] admission as em(Privatdocent). After all, we are a university, not a bathing establishment.
 Christina Hoff-Somers|The War Against Boys|Does Gilligan really understand boys? She finds boys lacking in empathy, but does she empathize with them? ... The new pedagogies designed to "educate boys more like girls" (in Gloria Steinem's phrase) are not harmless. Their approach to boys is unacceptably meddlesome, and even subtly abusive.
 Christina Hoff-Somers|The War Against Boys|An unacknowledged animus against boys is loose in our society.
 Carl Honoré|In Praise of Slow|When God made time he made plenty of it.
@@ -448,6 +495,16 @@ Rudyard Kipling|Kim|There was nothing in his composition to which drill and rout
 Rudyard Kipling|Kim|I am ten leagues deep in calamity.
 Rudyard Kipling|Kim|To importune the wise out of season is to invite calamity.
 Rudyard Kipling|Kim|The boat of my soul lacked direction.
+Thomas S. Kuhn|The Copernican Revolution|There is no way of proving that a conceptual scheme is final.
+Thomas S. Kuhn|The Copernican Revolution|Men who believed that their terrestrial home was only a planet circulating blindly about one of any infinity of stars evaluated their place in the cosmic scheme quite differently than had their predecessors who saw the earth as the unique and focal center of God's creation.
+Thomas S. Kuhn|The Copernican Revolution|The initial battle between Copernicus and the astronomers of antiquity was fought over technical minutiae...
+Thomas S. Kuhn|The Copernican Revolution|Copernicus himself believed in neither [infinite space nor the possibility of a vacuum]. As we shall see, he tried to preserve most of the central feautures of Aristotelian and Ptolemaic cosmology.
+Thomas S. Kuhn|The Copernican Revolution|Copernicus...belonged to the minority group of Renaissance astronomers who did not cast horoscopes.
+Thomas S. Kuhn|The Copernican Revolution|em(De Revolutionibus)...is a relatively staid, sober, and unrevolutionary work.
+Thomas S. Kuhn|The Copernican Revolution|Copernicus' system is neither simpler nor more accurate than Ptolemy's.
+Thomas S. Kuhn|The Copernican Revolution|The significance of em(De Revolutionibus) lies, then, less than in what it says itself than in what it caused others to say. The book gave rise to a revolution that it had scarcely enunciated.
+Thomas S. Kuhn|The Copernican Revolution|The Copernican Revolution, as we know it, is scarcely to be found in the em(De Revolutionibus) and that is the second essential incongruity of the text.
+Thomas S. Kuhn|The Copernican Revolution|During the century and a half following Galileo's death in 1642, a belief in the earth-centered universe was gradually transformed from an essential sign of sanity to an index, first, of inflexible conservatism, then of excessive parochialism, and finally of complete fanaticism.
 Thomas S. Kuhn|The Structure of Scientific Revolutions|To be accepted as a paradigm, a thing must seem better than its competitors, but it need not, and in fact never does, explain all the facts with which it can be confronted.
 Thomas S. Kuhn|The Structure of Scientific Revolutions|The temptation to write history backward is both omnipresent and perennial.
 Milan Kundera|L'identité|Elle savourait l'absence totale d'aventures. Aventure: façon d'embrasser le monde. Elle ne voulait plus embrasser le monde. Elle ne voulait plus le monde.
@@ -470,6 +527,8 @@ James Lovelock|The Revenge of Gaia|Few, even among climate scientists and ecolog
 James Lovelock|The Revenge of Gaia|We are no more qualified to be the stewards or developers of the Earth than are goats to be gardeners.
 James Lovelock|The Revenge of Gaia|Despite all these warnings, we carry on destroying and seem to worry only about the nearly trivial, even imaginary, risk of cancer from mobile telephones, power lines, pesticide residues in food, or sunlight; topping them all is a fear of anything to do with nuclear energy.
 James Lovelock|The Revenge of Gaia|How on Earth, you may ask, can something so good, something so benign as nuclear energy have been demonized to the point where people and sensitive governments are frightened to use it? I think it is a consequence of the vulnerability of people to the astonishing power to deceive of an endlessly repeated falsehood.
+Madame de Hausset|Mémoires|Everything in existence, said he, taking a handful of louis from his pocket, is contained in these little pieces of metal, which will convey you commodiously from one end of the world to the other. All men obey those who possess this powder, and eagerly tender their services. To despise money, is to despise happiness, liberty, in short, enjoyments of every kind.
+Madame de Hausset|Mémoires|The king [Louis XVI] gave each of his [illegitimate] children about ten thousand francs a year. They inherited after each other as they died off, and seven or eight were already dead.
 Xavier de Maistre|A Journey Around My Room|What a capital article of furniture an arm-chair is, and what a treasure to a thoughtful man! During the long winter evenings it is often delightful, and always prudent, to lounge luxuriously in it, far from the turmoil of the madding crowd. A good fire, books, and pens; what safeguards these are against ennui! And how pleasant again, to forget books and pens in the delights of stirring the fire, while giving one's-self up to some sweet thought, or making a few rhymes for the amusement of friends! The hours glide by and fall into silence - into eternity, without making their sad passage felt.
 Xavier de Maistre|A Journey Around My Room|The moment was short and full of ecstasy; cold reason soon resumed her sway, and in the twinkling of an eye, a whole year was added to my life; my heart grew icy cold, and I found myself on a level with the throng of commonplace beings who crowd the earth.
 Xavier de Maistre|A Journey Around My Room|Happy is he who finds a friend whose heart and mind are in sympathy with his own; a friend who is linked to him by similar tastes, feelings, and knowledge; a friend who is not tormented by ambition or egotism; who prefers the shade of a tree to the pomp of a court! Happy is he who possesses a friend!
@@ -479,6 +538,17 @@ Xavier de Maistre|A Journey Around My Room|Delightful realm of Imagination, whic
 Xavier de Maistre|Expédition nocturne autour de ma chambre|C'est un charme toujours nouveau pour moi que celui de contempler le ciel étoilé, et je n'ai pas à me reprocher d'avoir fait un seul voyage, ni même une simple promenade nocturne, sans payer le tribut d'admiration que je dois aux merveilles du firmament.
 Xavier de Maistre|Expédition nocturne autour de ma chambre|Spectateur éphémère d'un spectacle éternel, l'homme lève un instant les yeux vers le ciel, et les referme pour toujours; mais, pendant cet instant rapide qui lui est accordé, de tous les points du ciel et depuis les bornes de l'univers, un rayon consolateur part de chaque monde et vient frapper ses regards, pour lui annoncer qu'il existe un rapport entre l'immensité et lui, et qu'il est associé à l'éternité.
 Xavier de Maistre|Expédition nocturne autour de ma chambre|Combien peu de personnes, me disais-je, jouissent maintenant avec moi du spectacle sublime que le ciel étale inutilement pour les hommes assoupis!... Passe encore pour ceux qui dorment; mais qu'en coûterait-il à ceux qui se promènent, a ceux qui sortent en foule du théâtre de regarder un instant et d'admirer les brillantes constellations qui rayonnent de toutes parts sur leur tête? – Non, les spectateurs attentifs de Scapin ou de Jocrisse ne daigneront pas lever les yeux: Ils vont rentrer brutalement chez eux, ou ailleurs, sans songer que le ciel existe. Quelle bizarrerie!… parce qu'on peut le voir souvent et gratis, ils n'en veulent pas. Si le firmament était toujours voilé pour nous, si le spectacle qu'il nous offre dépendait d'un entrepreneur, les premières loges sur les toits seraient hors de prix, et les dames de Turin s'arracheraient ma lucarne.
+B. Malinowski|Argonauts of the Western Pacific|The goal is, briefly, to grasp the native's point of view, his relation to life, to realise em(his) vision of em(his) world.
+B. Malinowski|Argonauts of the Western Pacific|Disease is not conceived as an extraneous force, coming from outside and settling on the man, it is directly a man-made, sorcerer-made something.
+B. Malinowski|Argonauts of the Western Pacific|But each of the rites and spells is to the native mind, quite as indispensable for the success of the enterprise, as is the practical activity.
+B. Malinowski|Argonauts of the Western Pacific|...natives communally, as well as individually, never act except on traditional and conventional lines.
+B. Malinowski|Magic, Science, and Religion|Yet when the sociologist approaches the study of magic, there where it still reigns supreme...he finds to his disappointment an entirely sober, prosaic, even clumsy art, enacted for purely practical reasons, governed by crude and shallow beliefs, carried out in a simple and monotonous technique. This was already indicated in the definition of magic given above when in order to distinguish it from religion we described it as a body of purely practical acts, performed as a means to an end.
+B. Malinowski|Magic, Science, and Religion|[Magic] remains from the earliest times in the hands of specialists, and the first profession of mankind is that of wizard or witch.
+B. Malinowski|Magic, Science, and Religion|To the natives, knowledge of magic means the knowledge of the spell; and in any act of witchcraft the ritual centers around the utterance of the spell.
+B. Malinowski|Magic, Science, and Religion|...anthropology should not only be the study of savage custom in the light of our mentality and our culture, but also the study of our own mentality in the distant perspective borrowed from Stone Age man.
+B. Malinowski|Magic, Science, and Religion|But there is no doubt whatever to him that all serious and especially all fatal illnesses are due to various forms and agencies of witchcraft.
+B. Malinowski|Magic, Science, and Religion|Women and the suspicion of magical practices are the main causes of quarrels and village brawls...
+B. Malinowski|Magic, Science, and Religion|It is in the spell that the main virtue of all magic resides. The rite is there only to launch the spell, to serve as an appropriate mechanism of transmission.
 Alberto Manguel|The Library at Night|At night I can read with a lightheartedness verging on insousiance.
 Alberto Manguel|The Library at Night|My books have unlimited patience. They will wait for me till the end of my days.
 Yann Martel|Beatrice and Virgil|The precept that location is the key to the success of a business applies to art, and even to life itself: we thrive or wither depending on how nourishing our environment is.
@@ -544,6 +614,11 @@ Leonard Mlodinow|The Drunkard's Walk|We habitually underestimate the effect of r
 Leonard Mlodinow|The Drunkard's Walk|Complete chaos is ironically a kind of perfection.
 Leonard Mlodinow|The Drunkard's Walk|Avoiding the illusion of meaning in random patterns is a difficult task.
 Leonard Mlodinow|The Drunkard's Walk|...we should learn to spend as much time looking for evidence that we are wrong as we spend searching for reasons we are correct.
+Mme la Marquise de la Rochejaquelein|Mémoires|MM. de Feu et de Richeteau, qui, à la suite de quelques pourparlers, avaient la veille consenti à rester en otage, furent aussi massacrés. Des gardes nationales de la plaine retournèrent dans leurs foyers, emportant comme trophées, au bout de leurs baïonnettes, des nez, des oreilles et des lambeaux de chair humaine.
+Mme la Marquise de la Rochejaquelein|Mémoires|Les paysans ne manquaient guère à dire leurs prières avant d'entrer en combat, et presque tous faisaient un signe de croix à chaque coup qu'ils allaient tirer.
+Mme la Marquise de la Rochejaquelein|Mémoires|Depuis que je me cachais, je m'efforcais de donner à mes mains une couleur moins blanche, de peur qu'elles me fissent reconnaître; je les frottais souvent avec de la terre.
+Mme la Marquise de la Rochejaquelein|Mémoires|Madame de Jourdain fut menée sur la Loire pour être noyée avec ses trois filles: un soldat voulut sauver la plus jeune, qui était fort belle; elle se jeta à l'eau pour partager le sort de sa mère: la malheureuse enfant tomba sur des cadavres, et n'enfonça point; elle criait: «Poussez-moi! je n'ai pas assez d'eau!» et elle périt.
+Jacques Monod|NULL|L'homme sait enfin qu'il est seul dans l'immensité indifférente de l'univers d'où il a émergé par hasard.
 L. M. Montgomery|The Blue Castle|It was so easy to defy once you got started.
 L. M. Montgomery|The Blue Castle|In the Stirling clan ankles were among the unmentionables.
 L. M. Montgomery|The Blue Castle|"Can I acquire merit by getting or doing anything there for you or Cissy?"
@@ -583,6 +658,7 @@ Anaïs Nin|Diary, v.3|The young Americans show signs of total emotional atrophy.
 Anaïs Nin|Diary, v.3|"In my family", she said, "we did everything with enthusiasm. We even em(died) with enthusiasm!"
 Anaïs Nin|Diary, v.5|The most tragic moment in human relationships is when we are given to see, accidentally, by a revealing word, or a moment of crisis, the image which the other carries within himself of us, and we catch a glimpse of a stranger, or a caricature of ourselves.
 Anaïs Nin|Diary, v.5|The people around me are so standardized that they are colourless, anonymous, and have no distinguishing characteristics.
+John North|Cosmos|Galileo was not one of the great mathematical astronomers. He remained loyal to the circles used by Copernicus in planetary theory, and even in his em(Dialogue Concerning the Two Chief World Systems) he made no reference to the elliptical orbits introduced by Kepler, although he certainly knew of Kepler's work.
 Edna O'Brien|James Joyce|Il avait sur lui un pantalon de poupée miniature qu'il enfilait sur deux doigts et faisait danser comme une marionnette sur le comptoir du café, à la grande joie d'une clientèle hétéroclite.
 Flann O'Brien|At Swim-Two-Birds|"It is true that I will not", said Finn MacCool.
 Flann O'Brien|At Swim-Two-Birds|I poked him in a manner offensive to propriety and greeted his turned face with a facetious ejaculation: "How is the boy!", I said.
@@ -591,6 +667,7 @@ Flann O'Brien|At Swim-Two-Birds|That, I answered, would be the chiefest wisdom.
 Flann O'Brien|At Swim-Two-Birds|Take all that shall be brought upon thee, and keep patience, for gold and silver are tried in the fire, but acceptable men in the furnace of humiliation.
 Flann O'Brien|At Swim-Two-Birds|...they wildly reproached each other with bitter words and groundless accusations of bastardy and low birth...
 Flann O'Brien|At Swim-Two-Birds|Blackheads are not so bad, said Furriskey. A good big boil on the back of your neck, that's the boy that will make you say your prayers at night. A boil is a fright. It's a fright now.
+Oresme|NULL|...when God created [the heavens]..., He impressed them with a certain quality and force of motion, just as He impressed terrestrial things with weight...; it is just the same as a man building a clock and leaving it to run itself [written ca. 1360]
 Camille Paglia|NULL|Masculinity is aggressive, unstable, combustible. It is also the most creative cultural force in history.
 Michael Palin|Himalaya|He's horrendously overqualified for this sort of work, having twice summited Everest. On one of those occasions he arrived at the top at 5.30 in the morning, so far ahead of the rest of the party that he lay down on top of Everest and fell asleep until they arrived. Now that is cool.
 S. J. Perelman|The Road to Miltdown|The light of the bar was too dim to determine whether their lingerie had come from Bendel's or Bonwit's, but everything proclaimed them to be women not visibly harassed by the specter of want.
@@ -601,6 +678,7 @@ S. J. Perelman|The Road to Miltdown|Though hardly the comeliest girl in the clas
 S. J. Perelman|The Road to Miltdown|The mood of the quartet was distinctly festive; tongues loosened by copious draughts of loganberry cocktails, their flushed cheeks and sparkling eyes marked them incontrovertibly as devotees of Bacchus.
 S. J. Perelman|The Road to Miltdown|Then, out of the blue, Alec Fragonard, who played second leper in the road company of em(Father Damien's Chickens) last season...
 Petronius|Satyricon|But are not all the finest works of nature common property? The sun shines upon all men. The Moon with countless troops of stars in her train leads even the beasts to their food. Can we imagine anything more lovely than water? Yet it flows for all the world.
+Philoponas the Byzantine [6th cent.]|NULL|For if you let two weights fall from the same height, one of them being many times heavier than the other, you will see that the times required for the motion are not in proportion dependent on the ratio of their weights, but that the actual difference in time is very small.
 Charles Pierce|NULL|...the woof and warp of all thought and research is symbols, and the life of thought and science is the life inherent in symbols; so it is wrong to say that a good language is important to good thought, merely; for it is the essence of it.
 Pindaro|NULL|Sogno di un'ombra è l'uomo.
 Pindaro|NULL|Non desiderare, anima mia, la vita degli immortali, ma godi a fondo i beni alla tua porta.
@@ -692,6 +770,10 @@ Marcel Proust|Swann's Way|Verdurin! What a name! Oh, it must be said that they'r
 Marcel Proust|Swann's Way|But the harshness of his steely gaze was compensated by the softness of his cotton gloves, so that, as he approached Swann, he seemed to be exhibiting at once an utter contempt for his person and the most tender regard for his hat.
 Marcel Proust|Swann's Way|Swann speedily recovered his sense of the general ugliness of the human male when, on the other side of the tapestry curtain, the spectacle of the servants gave place to that of the guests.
 Marcel Proust|Swann's Way|...this woman whose reputation for beauty, misconduct and elegance was universal.
+Marcel Proust|The Guermantes Way|...I was not really there; my mind stayed behind somewhere else and sent mere Habit to take its place.
+Marcel Proust|The Guermantes Way|Interesting place, Morocco. I could tell you a lot about it. Some very decent fellows out there. Mental equals and all that.
+Marcel Proust|The Guermantes Way|And, indeed, I ought to have guessed this from her way of smiling, for I had already observed this sort of behavior when I saw the Princess of Luxembourg buying rye-bread rolls on the beach in Balbec to give to my grandmother, as thought to a deer at the zoo.
+Marcel Proust|The Guermantes Way|The Courvoisiers had a less exalted notion of intelligence, and unless one belonged to their world, being intelligent came close to meaning "having probably murdered one's parents".
 Marcel Proust|À l'ombre des jeunes filles en fleurs|On peut tout faire aux hommes qui vous aiment, ils sont idiots.
 Marcel Proust|À l'ombre des jeunes filles en fleurs|Il me fallut l'accompagner dans un petit pavillon treillissé de vert, assez semblable aux bureaux d'octroi désaffectés du vieux Paris, et dans lequel étaient depuis peu installés ce qu'on appelle en Angleterre un lavabo, et en France, par une anglomanie mal informée, des water-closets.
 Marcel Proust|À l'ombre des jeunes filles en fleurs|Quoi, vous croyez qu'elle a un derrière blue ciel comme les singes?
@@ -730,8 +812,9 @@ Mme Roland|Mémoires|...madame de Roudé, par exemple, qui, malgré son âge, ai
 Mme Roland|Mémoires|«Mon père, je m'accuse... - Eh bien!» Que dire après? Le coeur me battait, le feu me montait au visage; certaine sueur se répandait partout: «Je m'accuse... d'avoir eu des mouvemens contraires à la chasteté chrétienne.» Ah! La bonne phrase!
 Philip Roth|Portnoy's Complaint|And then, of course, my father is a man who has a certain amount of worrying to do each day, and sometimes he just has to forgo listening to the conversations going on around him in order to fulfill his anxiety requirement.
 Philip Roth|Portnoy's Complaint|"The Pumpkin", is what I called her, in commemoration of her pigmentation and the size of her can.
+M. Rowan-Robinson|Cosmology|The statement that the universe has to have had this history in order for galaxies, stars, and ourselves to exist is verging on the tautological and hardly merits the title em(anthropic principle) which some authors give it.
 N. Rowe|Tamerlane|Away! my soul disdains thy conference.
-N. Rowe|Tamerlane|Oh, glorious thought! By Heav'n I will enjoy it,)^NL^Tho but in fancy; imagination shall^NL^Make room to entertain the vast idea.
+N. Rowe|Tamerlane|Oh, glorious thought! By Heav'n I will enjoy it,^NL^Tho but in fancy; imagination shall^NL^Make room to entertain the vast idea.
 N. Rowe|NULL|...But standing now on the last verge of life,^NL^Boldy I view the vast abyss, eternity,^NL^Eager to plunge, and leave my woes behind me.
 Rumi|NULL|Why do you stay in prison, when the door is so wide open?
 Rumi|NULL|Open the window in the centre of your chest, and let the spirits fly in and out.
@@ -745,6 +828,7 @@ Rumi|NULL|That broken-down lowliness is the reality, not the language! Forget ph
 Rumi|NULL|People who insult me are only polishing the mirror.
 Carl Sagan|Cosmos|Our achievements rest on the accomplishments of 40,000 generations of our human predecessors, all but a tiny fraction of which are nameless and forgotten.
 Carl Sagan|Cosmos|...these are some of the things that hydrogen atoms do, given fifteen billion years of cosmic evolution.
+Saint Augustin|NULL|Voici une autre forme de tentation, encore plus dangereuse. Il s'agit de la maladie de la curiosité. C'est elle qui nous incite à tenter de découvrir les secrets de la nature, tous ces secrets inacessibles à notre compréhension qui ne nous concernent pas et que l'homme ne devrait pas désirer connaître.
 Lucio Anneo Seneca|NULL|Establish business relations with poverty.
 Lucio Anneo Seneca|NULL|Contented poverty is an honourable estate.
 Lucio Anneo Seneca|NULL|When Zeno received news of a shipwreck and heard that all his luggage had been sunk, he said, "Fortune bids me to be a less encumbered philosopher."
@@ -796,6 +880,10 @@ R. B. Sheridan|NULL|I hope, my Lord, those buckles have had the unspeakable sati
 R. B. Sheridan|NULL|I will now show you the excess of my passion, by being very calm. Come, Lory, lay your loggerhead to mine, and, in cold blood, let us contrive his destruction.
 R. B. Sheridan|NULL|He talked of accepting Lord Foppington's invitation to sup at Sir Tunbelly Clumsey's.
 Lydia Sigourney|The Stars|Ho! bold Orion, with thy lion-shield;^NL^What tidings from the chase? what monsters slain?
+C. Singer|A History of Scientific Ideas|It therefore behooves the historian of science to be very charitable, very forbearing, very humble, in his judgements and presentations of those who have gone before him. He needs to remember that he is dealing with the work of erring and imperfect human beings...
+C. Singer|A History of Scientific Ideas|In the Middle Ages languages were learned by speaking and not from grammars.
+C. Singer|A History of Scientific Ideas|It appeared about 1240 and was still being reprinted in the seventeenth century. It is one of the puzzles of history that this great improvement [Hindu-Arabic numerals], represented by the "Arabic" as against the Latin system, took three centuries to gain general acceptance.
+C. Singer|A History of Scientific Ideas|The humanists discovered the literary works of antiquity. In them they became absorbed to the exclusion of all else. Their eagerness passed into a literary vogue, and cast the blight of a purely literary education on the modern world.
 Adam Smith|NULL|Society and conversation... are the most powerful remedies for restoring the mind to its tranquility...
 Lee Smolin|The Trouble With Physics|The most cherished goal in physics, as in bad romance novels, is unification.
 Lee Smolin|The Trouble With Physics|To be fair, we have made two experimental discoveries in the past few decades: that neutrinos have mass and that the universe is dominated by a mysterious dark energy that seems to be accelerating its expansion.
@@ -855,6 +943,18 @@ H. D. Thoreau|Walden|A farmer, a hunter, a soldier, a reporter, even a philosoph
 H. D. Thoreau|Walden|As if you could kill time without injuring eternity.
 H. D. Thoreau|Walden|Our lives are frittered away in detail... Simplify, simplify.
 H. D. Thoreau|NULL|No man is rich enough to keep a poet in his pay.
+L. Thorndike|History of Magic and Experimental Science|[Quoting E. A. Wallis Budge] The belief in magic influenced [Egyptian] minds...from the earliest date to the latest period in their history...in a manner which, at this stage in the history of the world, is very difficult to comprehend.
+L. Thorndike|History of Magic and Experimental Science|[Quoting Breasted:] It is difficult for the modern mind to understand how completely the belief in magic penetrated the whole substance of life, dominating popular custom and constantly appearing in the simplest acts of the daily household routine, as much a matter of course as sleep or the preparation of food.
+L. Thorndike|History of Magic and Experimental Science|But Pliny himself feels that the assertions of the books of magic are fantastic, exaggerated, and untrue. He repeatedly brands the em(magi) or magicians as fools or impostors, and their statements as absurd and impudent tissues of lies.
+L. Thorndike|History of Magic and Experimental Science|It has often been remarked that, as a new religion comes to prevail in a society, the old rites are discredited and prohibited as magic. The faith and ceremonies of the majority, performed publicly, are called religion; the discarded cult, now practiced only privately and covertly by a majority, is stigmatized as magic and contrary to the general good.
+L. Thorndike|History of Magic and Experimental Science|The life of reason alone is free from magic.
+L. Thorndike|History of Magic and Experimental Science v.6|If our account seems cursory, this is partly because such works are so mystical and cloudy that a definite exposition of their contents is difficult, and that one dares not care to stand for long on the quicksands of their reveries.
+L. Thorndike|History of Magic and Experimental Science v.6|Here we may notice the plucking or digging of magic herbs at a given time with certain ceremonies, or the curing of toothache by saying "Anasageus" thrice, touching the aching tooth with a spear, and driving the spear into the the pavement of the baptistery.
+L. Thorndike|History of Magic and Experimental Science v.7|...and on the bite of the tarantula, a poison supposed to operate on anniversaries of the original puncturing and to be relieved only by dancing to certain music.
+L. Thorndike|History of Magic and Experimental Science v.8|[Quoting Lord Keynes:] [Isaac Newton was] the last of the magicians.
+L. Thorndike|History of Magic and Experimental Science v.8|[Quoting Caspar Batholinus:] No other quality more deserves the name of occult than gravity.
+L. Thorndike|History of Magic and Experimental Science v.8|Boyle himself told further of a man who had wasted away to a mere skeleton but recovered by hard-boiling an egg in his own urine, punching the egg-shell full of holes, and burying it in an anthill.
+L. Thorndike|History of Magic and Experimental Science v.8|This extremely learned and virtuous man [Jean Filesac] in 1609 had published a treatise on Idolatrous Magic, in which he asserted that the transportation of witches to nocturnal sabbats had been so thoroughly proved by the most erudite of men of the age, that, if anyone any longer cherished any doubt about it, he should be judged not only a wanderer from the Christian faith and religion but as sadly deficient in reason and judgement.
 Paul Tillich|NULL|By its nature, the metropolis provides what otherwise could be given only by traveling; namely, the strange.
 Leo Tolstoy|Anna Karenina|And so the liberal tendency became a habit with Stepan Arkadyich, and he liked his newspaper, as he liked his cigar after dinner, for the slight haze it produced in his head.
 Leo Tolstoy|Anna Karenina|The conversation never flagged for a minute, so that the old princess, who, in case a topic was lacking, always kept two heavy cannon in reserve - classical versus modern education, and general military conscription - did not have to move them up...
@@ -871,6 +971,11 @@ Leo Tolstoy|War and Peace|But despite the fact that the doctors treated him, ble
 Leo Tolstoy|War and Peace|Here Prince Hippolyte paused, evidently collecting his ideas with some difficulty.
 Leo Tolstoy|War and Peace|Silence ensued.
 Leo Tolstoy|War and Peace|Count Rostov was displeased to see that the company consisted almost entirely of men and women known for the freedom of their conduct.
+Toulmin and Goodfield|The Architecture of Matter|The change-over from a developmental to a static conception of matter was as profound as the change from a geocentric to a heliocentric astronomy, and its effects were as far-reaching.
+Toulmin and Goodfield|The Fabric of the Heavens|Yet ideas cannot be burned at the stake as heretics can.
+Toulmin and Goodfield|The Fabric of the Heavens|For Galileo still thought of "inertial motion" as naturally circular, whether in the case of a ship moving over the Earth's surface, or in that of a satellite circling around the planet Jupiter.
+Toulmin and Goodfield|The Fabric of the Heavens|It says much for Newton's mathematical facility...that he engaged in the whole enterprise as though it were an intellectual pastime, while believing all the time that the questions of true importance lay in other, religious directions.
+Toulmin and Goodfield|The Fabric of the Heavens|Leibniz would have said that the term "field" was only a way of making Newton's miracles computable.
 Anthony Trollope|The Small House at Allington|"Johnny Eames has come across Crosbie, and given him a desperate beating." "No," said Lady Julia, putting down her newspaper and spectacles, and expressing by the light of her eyes anything but Christian horror at the wickedness of the deed.
 Chögyam Trungpa|Cutting Through Spiritual Materialism|Eventually we must give up trying to be something special.
 Chögyam Trungpa|Cutting Through Spiritual Materialism|In fact, the higher we go, the more we come down to earth.
@@ -879,7 +984,7 @@ Chögyam Trungpa|NULL|The attainment of enlightenment from ego's point of view i
 Chögyam Trungpa|NULL|Chaos should be regarded as extremely good news.
 Chögyam Trungpa|NULL|The real function of a spiritual friend is to insult you.
 Gore Vidal|Myra Breckenridge|No man will ever possess Myra Breckinridge, though she will possess men, in her own good time and in ways convenient to her tyrannous lust.
-Alfred de Vigny|Derniere nuit de travail|...Il ne lui faut que deux choses: la vie et la rêverie; le em(pain) et le em(temps).
+Alfred de Vigny|Dernière nuit de travail|...Il ne lui faut que deux choses: la vie et la rêverie; le em(pain) et le em(temps).
 Alfred de Vigny|Le journal d'un poète|La Gloire. J'ai cru longtemps en elle; mais, réfléchissant que l'auteur de Laocoön est inconnu, j'ai vu sa vanité.
 Alfred de Vigny|Le journal d'un poète|L'homme d'action n'est qu'un penseur manqué.
 Alfred de Vigny|Le journal d'un poète|Il est bon et salutaire de n'avoir aucune espérance.
@@ -897,10 +1002,17 @@ A. de Villiers de L'Isle-Adam|Le désir d'être un homme|...le vieil abîme des 
 Voltaire|NULL|Those who make you believe absurdities can make you commit atrocities.
 Geoffrey Wall|Flaubert: A Life|Flaubert's friends were often obliged to stretch their sense of the comic beyond its comfortable limits.
 Weber|Mémoires|...[les conseils officieux] nous informèrent aussi que la guillotine avait été déclarée permanente sur la place du Carrousel; que cette place venait d'être nommée place de l'Egalité [août 1792].
+Richard Westfall|Never at Rest|Indeed, it was Descartes and not Galileo who stated the principle of inertia in the form we accept today, insisting on the rectilinear character of inertial motion.
+Richard Westfall|Never at Rest|For them, Aristotelian philosophy was dead beyond resurrection. In its place stood a new philosophy for which the machine, not the organism, was the dominant analogy.
+Richard Westfall|Never at Rest|...when Pierre Fermat derived the law [of refraction] from the principle of least time, mechanical philosophers refused to have truck with what they considered occult notions.
+Richard Westfall|Never at Rest|Nevertheless, I have undertaken to write a biography of Newton, and my personal preferences cannot make more than a million words he wrote in the study of alchemy disappear.
+Richard Westfall|Never at Rest|By 1661, the official curriculum of Cambridge, prescribed by statute nearly a century before, was in an advanced state of decomposition.
+Richard Westfall|Never at Rest|What he thought on, he thought on continually, which is to say exclusively, or nearly exclusively. What seized his attention in 1664, to the virtual exclusion of everything else, was mathematics.
+Richard Westfall|Never at Rest|Cambridge was fast approaching the status of an intellectual wasteland.
 Alfred North Whitehead|Introduction to Mathematics|Civilization advances by extending the number of important operations which we can perform without thinking about them.
 Walt Whitman|Song of Myself|I and this mystery here we stand.
 Walt Whitman|Song of Myself|I bequeath myself to the dirt to grow from the grass I love,^NL^If you want me again look for me under your boot-soles.
-Walt Whitman|Song of Myself|If you would understand me go to the heights or water-shore,^NL^The nearest gnat is an explanation...
+Walt Whitman|Song of Myself|If you would understand me go to the heights or water-shore. The nearest gnat is an explanation...
 Walt Whitman|Song of Myself|And I or you pocketless of a dime may purchase the pick of the earth, and to glance with an eye or show a bean in its pod confounds the learning of all times, and there is no trade or employment but the young man following it may become a hero, and there is no object so soft but it makes a hub for the wheel'd universe, and I say to any man or woman, let your soul stand cool and composed before a million universes.
 Oscar Wilde|NULL|Consistency is the last refuge of the unimaginative.
 Oscar Wilde|NULL|...facts are either kept in their proper subordinate position, or else entirely excluded on the general ground of dullness.

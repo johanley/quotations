@@ -1666,6 +1666,18 @@ Proust, Marcel {
     ...il est bien rare qu'un d'entre nous ait le toupet de son originalité et ne mette pas son application 
     à ressembler aux modèles les plus vantés.
   }
+  The Guermantes Way {
+    ...I was not really there; my mind stayed behind somewhere else and sent mere Habit to take its place.
+    
+    Interesting place, Morocco. I could tell you a lot about it. Some very decent fellows out there. 
+    Mental equals and all that.
+    
+    And, indeed, I ought to have guessed this from her way of smiling, for I had already observed this sort of behavior when I saw the 
+    Princess of Luxembourg buying rye-bread rolls on the beach in Balbec to give to my grandmother, as thought to a deer at the zoo.
+    
+    The Courvoisiers had a less exalted notion of intelligence, and unless one belonged to their world, being intelligent came close to meaning
+    "having probably murdered one's parents".
+  }
   Sodome et Gomorrhe {
      Blottie toute seule derrière elle, une pauvre petite étoile allait servir d'unique compagne à la lune 
      solitaire, tandis que celle-ci, tout en protégeant son amie, mais plus hardie et allant de l'avant, 
@@ -2143,6 +2155,34 @@ Kuhn, Thomas S. {
     explain all the facts with which it can be confronted.
   
     The temptation to write history backward is both omnipresent and perennial.
+  }
+  The Copernican Revolution {
+    There is no way of proving that a conceptual scheme is final.
+    
+    Men who believed that their terrestrial home was only a planet circulating blindly about one of any infinity of stars 
+    evaluated their place in the cosmic scheme quite differently than had their predecessors who saw the earth as the unique 
+    and focal center of God's creation.
+    
+    The initial battle between Copernicus and the astronomers of antiquity was fought over technical minutiae...
+    
+    Copernicus himself believed in neither [infinite space nor the possibility of a vacuum]. As we shall see, he tried to preserve most of the 
+    central feautures of Aristotelian and Ptolemaic cosmology.
+    
+    Copernicus...belonged to the minority group of Renaissance astronomers who did not cast horoscopes.
+    
+    em(De Revolutionibus)...is a relatively staid, sober, and unrevolutionary work.
+    
+    Copernicus' system is neither simpler nor more accurate than Ptolemy's.
+    
+    The significance of em(De Revolutionibus) lies, then, less than in what it says itself than in what it caused others to say.
+    The book gave rise to a revolution that it had scarcely enunciated.
+    
+    The Copernican Revolution, as we know it, is scarcely to be found in the em(De Revolutionibus) and that is the second essential 
+    incongruity of the text. 
+    
+    During the century and a half following Galileo's death in 1642, a belief in the earth-centered universe was gradually 
+    transformed from an essential sign of sanity to an index, first, of inflexible conservatism, then of excessive parochialism, and 
+    finally of complete fanaticism.
   }
 }
 
@@ -3672,5 +3712,395 @@ Quincey, Thomas de {
     
     ...I discovered that it em(was) a decanter. Into this you may put a quart of ruby-coloured laudanum; that, and a book 
     of German metaphysics placed by its side, will sufficiently attest to my being in the neighbourhood.
+  }
+}
+
+# Adding new authors below on 2022-10-14:
+
+Godfrey-Smith, Peter {
+  Theory and Reality {
+    Although mathematics is clearly of huge importance in the development of physics, one of the greatest achievements in all of 
+    science - Darwin's achievement in em(On the Origin of Species) - makes no real use of mathematics.
+    
+    For Popper, an inspiring example of genuine science was the work of Einstein. Examples of pseudo-science were Freudian 
+    psychology and Marxist views about society and history.
+    
+    And crucially, for Popper it is never possible to confirm or establish a theory by showing its agreement with observations.
+    em(Confirmation is a myth.) The only thing that an observational test can do is to show that a theory is false.
+    
+    The humanities had gone to hell, and now they were trying to wreck science as well, via endless relativist bleating that 
+    science is "just another approach to knowledge with no special status."
+  }
+}
+
+Oresme {
+  ...when God created [the heavens]..., He impressed them with a certain quality and force of motion, just as He impressed terrestrial things 
+  with weight...; it is just the same as a man building a clock and leaving it to run itself [written ca. 1360]
+}
+
+Galileo {
+  Philosophy is written in this grand book of the universe, which stands continually open to our gaze. But the book cannot be understood 
+  unless one first learns to comprehend the language in which it is composed. em(It is written in the language of mathematics)...
+}
+
+Hegel {
+  Magic has existed among all peoples and at every period.
+}
+
+Thorndike, L. {
+  History of Magic and Experimental Science {
+     
+    [Quoting E. A. Wallis Budge] The belief in magic influenced [Egyptian] minds...from the earliest date to the latest period in their history...in a 
+    manner which, at this stage in the history of the world, is very difficult to comprehend. 
+    
+    [Quoting Breasted:] It is difficult for the modern mind to understand how completely the belief in magic penetrated the whole substance of life, 
+    dominating popular custom and constantly appearing in the simplest acts of the daily household routine, as much a matter of course as sleep
+    or the preparation of food.
+    
+    But Pliny himself feels that the assertions of the books of magic are fantastic, exaggerated, and untrue.
+    He repeatedly brands the em(magi) or magicians as fools or impostors, and their statements as absurd and impudent tissues of lies.
+    
+    It has often been remarked that, as a new religion comes to prevail in a society, the old rites are discredited and prohibited as magic.
+    The faith and ceremonies of the majority, performed publicly, are called religion; the discarded cult, now practiced only privately
+    and covertly by a majority, is stigmatized as magic and contrary to the general good.
+    
+    The life of reason alone is free from magic.
+  }
+  History of Magic and Experimental Science v.6 {
+    If our account seems cursory, this is partly because such works are so mystical and cloudy that a definite exposition of their
+    contents is difficult, and that one dares not care to stand for long on the quicksands of their reveries.
+    
+    Here we may notice the plucking or digging of magic herbs at a given time with certain ceremonies, or the curing of toothache
+    by saying "Anasageus" thrice, touching the aching tooth with a spear, and driving the spear into the the pavement of the baptistery.
+  }
+  History of Magic and Experimental Science v.7 {
+    ...and on the bite of the tarantula, a poison supposed to operate on anniversaries of the original puncturing and to be 
+    relieved only by dancing to certain music.
+  }  
+  History of Magic and Experimental Science v.8 {
+    [Quoting Lord Keynes:] [Isaac Newton was] the last of the magicians.
+    
+    [Quoting Caspar Batholinus:] No other quality more deserves the name of occult than gravity.
+    
+    Boyle himself told further of a man who had wasted away to a mere skeleton but recovered by hard-boiling an egg in his own urine,
+    punching the egg-shell full of holes, and burying it in an anthill. 
+    
+    This extremely learned and virtuous man [Jean Filesac] in 1609 had published a treatise on Idolatrous Magic, in which he asserted 
+    that the transportation of witches to nocturnal sabbats had been so thoroughly proved by the most erudite of men of the age, 
+    that, if anyone any longer cherished any doubt about it, he should be judged not only a wanderer from the Christian faith and 
+    religion but as sadly deficient in reason and judgement. 
+  }  
+}
+
+Westfall, Richard {
+  Never at Rest {
+    Indeed, it was Descartes and not Galileo who stated the principle of inertia in the form we accept today, insisting on the 
+    rectilinear character of inertial motion.
+    
+    For them, Aristotelian philosophy was dead beyond resurrection. In its place stood a new philosophy for which the machine,
+    not the organism, was the dominant analogy.
+    
+    ...when Pierre Fermat derived the law [of refraction] from the principle of least time, mechanical philosophers refused to have 
+    truck with what they considered occult notions.
+    
+    Nevertheless, I have undertaken to write a biography of Newton, and my personal preferences cannot make more than a million 
+    words he wrote in the study of alchemy disappear.
+    
+    By 1661, the official curriculum of Cambridge, prescribed by statute nearly a century before, was in an advanced state of decomposition.
+    
+    What he thought on, he thought on continually, which is to say exclusively, or nearly exclusively. What seized his attention in 
+    1664, to the virtual exclusion of everything else, was mathematics.
+    
+    Cambridge was fast approaching the status of an intellectual wasteland.
+  }
+}
+
+Toulmin and Goodfield {
+  The Architecture of Matter {
+    The change-over from a developmental to a static conception of matter was as profound as the change from a geocentric to a 
+    heliocentric astronomy, and its effects were as far-reaching.
+  }
+  The Fabric of the Heavens {
+    Yet ideas cannot be burned at the stake as heretics can.
+    
+    For Galileo still thought of "inertial motion" as naturally circular, whether in the case of a ship moving over the Earth's surface,
+    or in that of a satellite circling around the planet Jupiter.
+    
+    It says much for Newton's mathematical facility...that he engaged in the whole enterprise as though it were an intellectual 
+    pastime, while believing all the time that the questions of true importance lay in other, religious directions.
+    
+    Leibniz would have said that the term "field" was only a way of making Newton's miracles computable.
+  }
+}
+
+C. Singer et. al. {
+  A History of Technology {
+    The restriction of the various Semitic alphabets to consonants is difficult to explain, but it must be remembered that the structure
+    of all the Semitic languages rests on the basis of consonantal bi-lateral or tri-lateral roots. These give the essential conception of 
+    the word, the vowels only providing the relations, case, tense, mood, and so forth [swim, swam, swum].
+    
+    The Egyptians of the Old Kingdom had discovered the principle of expressing a single sound, whether consonant or vowel, by a single sign.
+    Owing to their intense conservatism, they did not fully use it.
+    
+    By the middle of the fourth century B.C., however, the Ionic alphabet of 24 letters had become standardized. It was the most perfect 
+    instrument for recording and preserving human speech that had come into existence.
+    
+    It is a common fallacy to suppose that monkeys cannot oppose the thumb to the other digits.
+    
+    An analysis of the better-defined tools from Choukoutien has shown that the majority were chipped by right-handed persons.
+    Monkeys and apes are usually indifferent to which hand they use, and the acquisition of greater skill in the one hand is a human 
+    trait linked with the dominance of one side of the brain, and doubtless connected with the habitual use of tools.
+    Ninety-five percent of modern adult human beings are right-handed, but left-handedness was commoner in earlier times, as it is still 
+    among untrained infants.
+    
+    When Europeans first explored Australia there were some 500 tribes with a total population of about 300,000...There were as many 
+    languages as tribes.
+    
+    Yet from the meagre data available it appears that all early vehicles shared one other peculiarity besides solid wheels - namely 
+    paired draught.
+    
+    One result of [the development of Neolithic farming] is that it now became worthwhile to keep prisoners as slaves instead of 
+    eating or torturing them...
+    
+    At the same time, metal-workers were among the first full-time specialists in industrial production, though specialists in magic 
+    or religion may have become so earlier.
+    
+    In the Mediterranean, deforestation had become serious by classical times...
+    
+    The diet of the masses in ancient Greece and Rome consisted of little but bread and a porridge of wheat or barley supplemented 
+    by vegetable, fish, and spice.
+    
+    The [medieval] diet of the masses was mainly vegetarian and frugal, two meals being usual.      
+  }
+}
+
+Herodotus {
+  ...since she was well-endowed with the blessings of Aphrodite, she acquired a large fortune.
+  
+  ...for long ago the Hellenes distinguished themselves from barbarians by their superior cleverness and freedom from naive stupidity.
+  
+  According to this law, an Egyptian could get a loan by declaring his father's corpse as security.
+  
+  In the middle of their heated argument, seven pairs of hawks pursuing and pecking violently at a pair of eagles appeared above them.
+  When they saw this, they all approved of Darius' plan and, emboldened by this omen of the birds, continued on toward the palace.
+  
+  For even in such a short span of life, no human being is born so fortunate...that the wish to be dead rather than alive will not 
+  occur to him, and not just once, but often.
+}
+
+Evans-Pritchard, E. E. {
+  Theories of Primitive Religion {
+    For instance, many peoples are convinced that deaths are caused by witchcraft. To speak of witchcraft being for these peoples a 
+    supernatural agency hardly reflects their own view of the matter, since from their point of view nothing could be more natural.
+  }
+}
+
+Frazer, J. G. {
+  The Golden Bough {
+    Whatever doubts science may entertain as to the possibility of action at a distance, magic has none...
+    
+    ...may we not reasonably conjecture that...just as on the material side of human culture there has everywhere been an 
+    Age of Stone, so on the intellectual side there has everywhere been an Age of Magic?
+    
+    This universal faith, this truly Catholic creed, is a belief in the efficacy of magic. While religious systems differ not only in 
+    different countries, but in the same country in different ages, the system of sympathetic magic remains everywhere and at all times 
+    substantially alike in its principles and practice.
+  }
+}
+
+Malinowski, B. {
+  Magic, Science, and Religion {
+    Yet when the sociologist approaches the study of magic, there where it still reigns supreme...he finds to his disappointment an entirely
+    sober, prosaic, even clumsy art, enacted for purely practical reasons, governed by crude and shallow beliefs, carried out in a simple
+    and monotonous technique. This was already indicated in the definition of magic given above when in order to distinguish it from 
+    religion we described it as a body of purely practical acts, performed as a means to an end.
+    
+    [Magic] remains from the earliest times in the hands of specialists, and the first profession of mankind is that of wizard or witch.
+    
+    To the natives, knowledge of magic means the knowledge of the spell; and in any act of witchcraft the ritual centers around the 
+    utterance of the spell.
+    
+    ...anthropology should not only be the study of savage custom in the light of our mentality and our culture, but also the study of our 
+    own mentality in the distant perspective borrowed from Stone Age man.
+    
+    But there is no doubt whatever to him that all serious and especially all fatal illnesses are due to various forms and 
+    agencies of witchcraft.
+    
+    Women and the suspicion of magical practices are the main causes of quarrels and village brawls...
+    
+    It is in the spell that the main virtue of all magic resides. The rite is there only to launch the spell, to serve as an appropriate 
+    mechanism of transmission.
+  }
+  Argonauts of the Western Pacific {
+    The goal is, briefly, to grasp the native's point of view, his relation to life, to realise em(his) vision of em(his) world.
+    
+    Disease is not conceived as an extraneous force, coming from outside and settling on the man, it is directly a man-made, 
+    sorcerer-made something.
+    
+    But each of the rites and spells is to the native mind, quite as indispensable for the success of the enterprise, as is the practical
+    activity.
+
+    ...natives communally, as well as individually, never act except on traditional and conventional lines.
+  }
+}
+
+Madame de Hausset {
+  Mémoires {
+    Everything in existence, said he, taking a handful of louis from his pocket, is contained in these little pieces of metal, which will
+    convey you commodiously from one end of the world to the other. All men obey those who possess this powder, and eagerly tender 
+    their services. To despise money, is to despise happiness, liberty, in short, enjoyments of every kind.
+    
+    The king [Louis XVI] gave each of his [illegitimate] children about ten thousand francs a year. They inherited after each other as they
+    died off, and seven or eight were already dead.
+  }
+}
+
+North, John {
+  Cosmos {
+    Galileo was not one of the great mathematical astronomers. He remained loyal to the circles used by Copernicus in planetary theory,
+    and even in his em(Dialogue Concerning the Two Chief World Systems) he made no reference to the elliptical orbits introduced by 
+    Kepler, although he certainly knew of Kepler's work.
+  }
+}
+
+Barrette, Cyrille {
+  Mystère sans magie {
+    Le scientifique rejette systématiquement, catégoriquement, sans nuance et sans appel toutes les explications qui invoqueraient, 
+    même partiellement et de très loin, le surnaturel, la magie et le miracle.
+  }
+}
+
+Monod, Jacques {
+  L'homme sait enfin qu'il est seul dans l'immensité indifférente de l'univers d'où il a émergé par hasard.
+}
+
+Saint Augustin {
+  Voici une autre forme de tentation, encore plus dangereuse. Il s'agit de la maladie de la curiosité. C'est elle qui nous incite 
+  à tenter de découvrir les secrets de la nature, tous ces secrets inacessibles à notre compréhension qui ne nous concernent pas et
+  que l'homme ne devrait pas désirer connaître. 
+}
+
+Mme la Marquise de la Rochejaquelein {
+ Mémoires {
+   MM. de Feu et de Richeteau, qui, à la suite de quelques pourparlers, avaient la veille consenti à rester en otage, furent 
+   aussi massacrés. Des gardes nationales de la plaine retournèrent dans leurs foyers, emportant comme trophées, au bout de 
+   leurs baïonnettes, des nez, des oreilles et des lambeaux de chair humaine.
+   
+   Les paysans ne manquaient guère à dire leurs prières avant d'entrer en combat, et presque tous faisaient un signe de croix à chaque
+   coup qu'ils allaient tirer.
+   
+   Depuis que je me cachais, je m'efforcais de donner à mes mains une couleur moins blanche, de peur qu'elles me fissent reconnaître; je
+   les frottais souvent avec de la terre.
+   
+   Madame de Jourdain fut menée sur la Loire pour être noyée avec ses trois filles: un soldat voulut sauver la plus jeune, qui était 
+   fort belle; elle se jeta à l'eau pour partager le sort de sa mère: la malheureuse enfant tomba sur des cadavres, et n'enfonça 
+   point; elle criait: «Poussez-moi! je n'ai pas assez d'eau!» et elle périt. 
+ }
+}
+
+Firth, Raymond {
+  Tikopia Life and Ritual {
+    The reasons for sorcery are mainly those of economics or of personal status; desire for land; wish to punish for theft of food; 
+    jealousy of competitive achievement; resentment at a personal affront.
+  }
+}
+
+Rowan-Robinson, M. {
+  Cosmology {
+    The statement that the universe has to have had this history in order for galaxies, stars, and ourselves to exist is verging on the 
+    tautological and hardly merits the title em(anthropic principle) which some authors give it.
+  }
+}
+
+Diamond, Jared {
+  The World Until Yesterday {
+     A recurring theme is that the other Westerners and I are struck by the emotional security, self-confidence, curiosity, and autonomy
+     of members of small-scale societies, not only as adults but already as children.
+     
+     In 1931 no New Guinean born in Goroka had ever visited Wapenamanda a mere 107 miles to the west; the idea of traveling from 
+     Goroka to Wapenamanda, without being killed by an unknown stranger within the first 10 miles from Goroka, would have been unthinkable.
+     
+     "People are basically the same everywhere." No, I eventually came to realize, in many basic ways we are not all the same....
+     
+     ...the independence, security, and social maturity of children in traditional societies impress all visitors who have come to know them.
+     
+     First contact with previously uncontacted tribal peoples is terrifying. Neither side knows what the other side wants or will do.
+     
+     Ever since my first trip to New Guinea, I have been impressed by how much more time New Guineans spend talking with each other than
+     do we Americans and Europeans.... Talking is the main form of entertainment in New Guinea.
+     
+     As a result, food is a major and almost constant subject of conversation...The significance of sex and food is reversed between the 
+     Siriono and us Westerners; the Siriono's strongest anxieties are about food, they have sex virtually whenever they want, and sex 
+     compensates for food hunger, while our strongest anxieties are about sex, we have food virtually whenever we want, and eating 
+     compensates for sexual frustration.
+     
+     Among those 20 New Guineans, the smallest number of languages that anyone spoke was 5. Several men spoke from 8 to 12 languages, and the 
+     champion was a man who spoke 16.
+     
+     For instance, no one in the densely populated mountain valleys of the main body of New Guinea had seen or even heard of the ocean, 
+     lying at a distance of only 50 to 120 miles.
+  }
+}
+
+Hilbert, David {
+  I do not see that the sex of a candidate is an argument against her [Emmy Noether's] admission as em(Privatdocent). 
+  After all, we are a university, not a bathing establishment.
+}
+
+Philoponas the Byzantine [6th cent.] {
+  For if you let two weights fall from the same height, one of them being many times heavier than the other, you will see that the 
+  times required for the motion are not in proportion dependent on the ratio of their weights, but that the actual difference 
+  in time is very small.
+}
+
+Flammarion and Gore {
+  Popular Astronomy {
+    Writers who know nothing of the true poetry of modern science have supposed that the perception of the sublime is born 
+    of ignorance, and that to admire, it is necessary not to know. This is assuredly a strange error...
+  }
+}
+
+Singer, C. {
+  A History of Scientific Ideas {
+    It therefore behooves the historian of science to be very charitable, very forbearing, very humble, in his judgements and presentations 
+    of those who have gone before him. He needs to remember that he is dealing with the work of erring and imperfect human beings...
+    
+    In the Middle Ages languages were learned by speaking and not from grammars.
+    
+    It appeared about 1240 and was still being reprinted in the seventeenth century. It is one of the puzzles of history that this 
+    great improvement [Hindu-Arabic numerals], represented by the "Arabic" as against the Latin system, took three centuries to gain
+    general acceptance.
+    
+    The humanists discovered the literary works of antiquity. In them they became absorbed to the exclusion of all else. Their 
+    eagerness passed into a literary vogue, and cast the blight of a purely literary education on the modern world.
+  }
+}
+
+Copernicus {
+ De Revolutionibus {
+   ...the order and magnitude of the stars and all of their orbits and the heaven itself are so connected that in no part can anything
+   be transposed without confusion to the rest and to the whole universe. 
+ }
+}
+
+Capek, M. {
+  The Philosophical Impact of Contemporary Physics {
+    The intensity of every astonishment gradually wears off; the human mind, by the sheer effect of repetition and habit, gradually
+    becomes accustomed to even the strangest and least familiar ideas.
+    
+    It frequently happens that within one and the same mind the true grasp of the mathematical side of the theory coexists with 
+    serious misapprehensions of its physical and especially its philosophical meaning....
+    
+    This plainly shows that the term "curvature" is essentially metaphorical, for it is based on an analogy with curvature of 
+    two-dimensional surfaces.
+    
+    
+    ...the law of gravitation is a generalized law of inertia.
+    
+    What is left of the classical definition of space as "simultaneous juxtaposition of points?" Nothing but a word with 
+    misleading connotations.
+    
+    Yet the idea of a timeless container, in which all matter is located and in which all motion takes place, has such deep roots
+    in the very structure of human imagination that it is almost impossible to get rid of it.
   }
 }
