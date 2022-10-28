@@ -1673,7 +1673,7 @@ Proust, Marcel {
     Mental equals and all that.
     
     And, indeed, I ought to have guessed this from her way of smiling, for I had already observed this sort of behavior when I saw the 
-    Princess of Luxembourg buying rye-bread rolls on the beach in Balbec to give to my grandmother, as thought to a deer at the zoo.
+    Princess of Luxembourg buying rye-bread rolls on the beach in Balbec to give to my grandmother, as though to a deer at the zoo.
     
     The Courvoisiers had a less exalted notion of intelligence, and unless one belonged to their world, being intelligent came close to meaning
     "having probably murdered one's parents".
@@ -2159,14 +2159,14 @@ Kuhn, Thomas S. {
   The Copernican Revolution {
     There is no way of proving that a conceptual scheme is final.
     
-    Men who believed that their terrestrial home was only a planet circulating blindly about one of any infinity of stars 
+    Men who believed that their terrestrial home was only a planet circulating blindly about one of an infinity of stars 
     evaluated their place in the cosmic scheme quite differently than had their predecessors who saw the earth as the unique 
     and focal center of God's creation.
     
     The initial battle between Copernicus and the astronomers of antiquity was fought over technical minutiae...
     
     Copernicus himself believed in neither [infinite space nor the possibility of a vacuum]. As we shall see, he tried to preserve most of the 
-    central feautures of Aristotelian and Ptolemaic cosmology.
+    central features of Aristotelian and Ptolemaic cosmology.
     
     Copernicus...belonged to the minority group of Renaissance astronomers who did not cast horoscopes.
     
@@ -3735,7 +3735,7 @@ Godfrey-Smith, Peter {
 
 Oresme {
   ...when God created [the heavens]..., He impressed them with a certain quality and force of motion, just as He impressed terrestrial things 
-  with weight...; it is just the same as a man building a clock and leaving it to run itself [written ca. 1360]
+  with weight...; it is just the same as a man building a clock and leaving it to run itself. [Written ca. 1360]
 }
 
 Galileo {
@@ -3948,9 +3948,9 @@ Madame de Hausset {
   Mémoires {
     Everything in existence, said he, taking a handful of louis from his pocket, is contained in these little pieces of metal, which will
     convey you commodiously from one end of the world to the other. All men obey those who possess this powder, and eagerly tender 
-    their services. To despise money, is to despise happiness, liberty, in short, enjoyments of every kind.
+    their services. To despise money is to despise happiness, liberty, in short, enjoyments of every kind.
     
-    The king [Louis XVI] gave each of his [illegitimate] children about ten thousand francs a year. They inherited after each other as they
+    The king gave each of his [illegitimate] children about ten thousand francs a year. They inherited after each other as they
     died off, and seven or eight were already dead.
   }
 }
@@ -4093,7 +4093,6 @@ Capek, M. {
     
     This plainly shows that the term "curvature" is essentially metaphorical, for it is based on an analogy with curvature of 
     two-dimensional surfaces.
-    
     
     ...the law of gravitation is a generalized law of inertia.
     
