@@ -1,4 +1,4 @@
-THIS REPO HAS BEEN OBSOLETED BY THE [quotations-ps](https://github.com/johanley/quotations) REPO.
+THIS REPO HAS BEEN OBSOLETED BY THE [quotations-ps](https://github.com/johanley/quotations-ps) REPO.
 
 Quotations collected over a lifetime of reading.
 I write quotations down while reading a good book.
