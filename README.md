@@ -1,3 +1,5 @@
+THIS REPO HAS BEEN OBSOLETED BY THE [quotations-ps](https://github.com/johanley/quotations) REPO.
+
 Quotations collected over a lifetime of reading.
 I write quotations down while reading a good book.
 I have several thousand collected in binders.
